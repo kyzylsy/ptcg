@@ -18,15 +18,15 @@ A Personal Pokémon TCG Gallery
    + Neo: 拡張パック 第3弾「めざめる伝説」(Awakening Legend)
    + Neo: 拡張パック 第4弾「闇、そして光へ...」(Darkness, and to Light...)
 + Pokémon Card VS: ✔ Era Complete
-   + VS: 第1弾「リーダーズポケモン」(Leaders Pokémon)
+   + VS : 「ポケモンカード★VS」(Pokémon Card VS)
 + Pokémon Card WEB:
-   + WEB: ポケモンカード★web (Pokémon WEB)
+   + WEB: 「ポケモンカード★web」(Pokémon WEB)
 + Pokémon-e:
-   + e-Series: 第1弾　基本拡張パック (Base Booster Pack 1)
-   + e-Series: 拡張パック 第2弾「地図にない町」(The Town on No Map)
-   + e-Series: 拡張パック 第3弾「海からの風」(Wind from the Sea)
-   + e-Series: 拡張パック 第4弾「裂けた大地」(Split Earth)
-   + e-Series: 拡張パック 第5弾「神秘なる山」(Mysterious Mountains)
+   + e-Series: 第1弾「基本拡張パック」(Base Booster Pack 1)
+   + e-Series: 第2弾「地図にない町」(The Town on No Map)
+   + e-Series: 第3弾「海からの風」(Wind from the Sea)
+   + e-Series: 第4弾「裂けた大地」(Split Earth)
+   + e-Series: 第5弾「神秘なる山」(Mysterious Mountains)
 + Pokémon Card Game ADV:
    + ADV: 第1弾拡張パック (1st Expansion Pack)
    + ADV: 拡張パック「砂漠のきせき」(Desert of Miracles)
