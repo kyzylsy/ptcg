@@ -6,7 +6,7 @@ A Personal Pokémon TCG Gallery
    + EX1: 拡張パック 第1弾 (Expansion Pack 1)
    + EX2: 拡張パック 第2弾「ポケモンジャングル」(Pokemon Jungle)
    + EX3: 拡張パック 第3弾「化石の秘密」(The Mystery of the Fossils)
-   + EX4: 拡張パック 第4弾 「ロケット団」(Rocket Gang)
+   + EX4: 拡張パック 第4弾「ロケット団」(Rocket Gang)
    + GYM1: ジム拡張 第1弾「リーダーズスタジアム」(Leaders Stadium)
    + GYM2: ジム拡張 第2弾「闇からの挑戦」(Challenge from the Darkness)
 
