@@ -682,7 +682,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Tamamushi City Gym Theme Deck](Tamamushi-City-Gym#inner16). The image of this two card has a little bit different.</td>
+			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner16). The image of this two card has a little bit different.</td>
 		</tr>
 		<tr id="inner84">
 			<td>—</td>
@@ -698,7 +698,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Misty{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Hanada City Gym Theme Deck](Hanada-City-Gym#inner15). The image of this two card has a little bit different.</td>
+			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Hanada City Gym Theme Deck](/Hanada-City-Gym#inner15). The image of this two card has a little bit different.</td>
 		</tr>
 		<tr id="inner86">
 			<td>—</td>
@@ -730,7 +730,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Brock{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Nivi City Gym Theme Deck](Nivi-City-Gym#inner18). The image of this two card has a little bit different.</td>
+			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Nivi City Gym Theme Deck](/Nivi-City-Gym#inner18). The image of this two card has a little bit different.</td>
 		</tr>
 		<tr id="inner90">
 			<td>—</td>
@@ -754,7 +754,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Lt. Surge{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Kuchiba City Gym Theme Deck](Kuchiba-City-Gym#inner22). The image of this two card has a little bit different.</td>
+			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Kuchiba City Gym Theme Deck](/Kuchiba-City-Gym#inner22). The image of this two card has a little bit different.</td>
 		</tr>
 		<tr id="inner93">
 			<td>—</td>

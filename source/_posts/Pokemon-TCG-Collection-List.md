@@ -34,7 +34,7 @@ tags:
 					<li>[Kuchiba City Gym](Kuchiba-City-Gym)</li>
 					<li>[Tamamushi City Gym](Tamamushi-City-Gym)</li>
 					<li>Quick Starter Gift Set</li>
-					<li>Yamabuki City Gym</li>
+					<li>[Yamabuki City Gym](Yamabuki-City-Gym)</li>
 					<li>Guren Town Gym</li>
 					<li>Intro Pack <img src="https://cdn.bulbagarden.net/upload/2/26/SetSymbolBulbasaurIntroPack.png" height="20px" class="nofancybox"/> <img src="https://cdn.bulbagarden.net/upload/d/d3/SetSymbolSquirtleIntroPack.png" height="20px" class="nofancybox"/></li>
 				</ul>
