@@ -42,7 +42,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika's Oddish{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/2/2e/Grass-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner2)</td>
 		</tr>
 		<tr id="inner4">
 			<td>—</td>
@@ -58,7 +58,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika's Bellsprout{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/2/2e/Grass-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner6)</td>
 		</tr>
 		<tr id="inner6">
 			<td>—</td>
@@ -66,7 +66,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika's Tangela{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/2/2e/Grass-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner11)</td>
 		</tr>
 		<tr id="inner7">
 			<td>—</td>
@@ -114,7 +114,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika's Exeggcute{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/2/2e/Grass-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>While Exeggcute have six "eggs" in a group, the artwork for this card only has five.</td>
 		</tr>
 		<tr id="inner13">
 			<td>—</td>
@@ -122,7 +122,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika's Exeggutor{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/2/2e/Grass-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner10)</td>
 		</tr>
 		<tr id="inner14">
 			<td>—</td>
@@ -130,7 +130,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika's Vileplume{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/2/2e/Grass-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/6/65/Rarity_Rare_Holo.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner4)</td>
 		</tr>
 		<tr id="inner15">
 			<td>—</td>
@@ -138,7 +138,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika's Victreebel{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/2/2e/Grass-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner8)</td>
 		</tr>
 		<tr id="inner16">
 			<td>—</td>
@@ -154,7 +154,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Brock's Vulpix{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/a/ad/Fire-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Nivi City Gym Theme Deck](/Nivi-City-Gym#inner2)</td>
 		</tr>
 		<tr id="inner18">
 			<td>—</td>
@@ -218,7 +218,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Misty's Horsea{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/1/11/Water-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Hanada City Gym Theme Deck](/Hanada-City-Gym#inner8)</td>
 		</tr>
 		<tr id="inner26">
 			<td>—</td>
@@ -226,7 +226,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Misty's Goldeen{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/1/11/Water-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Hanada City Gym Theme Deck](/Hanada-City-Gym#inner9)</td>
 		</tr>
 		<tr id="inner27">
 			<td>—</td>
@@ -234,7 +234,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Misty's Staryu{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/1/11/Water-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Hanada City Gym Theme Deck](/Hanada-City-Gym#inner12)</td>
 		</tr>
 		<tr id="inner28">
 			<td>—</td>
@@ -282,7 +282,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Misty's Tentacruel{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/1/11/Water-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/6/65/Rarity_Rare_Holo.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Hanada City Gym Theme Deck](/Hanada-City-Gym#inner4)</td>
 		</tr>
 		<tr id="inner34">
 			<td>—</td>
@@ -306,7 +306,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Lt. Surge's Pikachu{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/04/Lightning-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Kuchiba City Gym Theme Deck](/Kuchiba-City-Gym#inner2)</td>
 		</tr>
 		<tr id="inner37">
 			<td>—</td>
@@ -314,7 +314,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Lt. Surge's Magnemite{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/04/Lightning-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Kuchiba City Gym Theme Deck](/Kuchiba-City-Gym#inner4)</td>
 		</tr>
 		<tr id="inner38">
 			<td>—</td>
@@ -322,7 +322,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Lt. Surge's Voltorb{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/04/Lightning-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Kuchiba City Gym Theme Deck](/Kuchiba-City-Gym#inner8)</td>
 		</tr>
 		<tr id="inner39">
 			<td>—</td>
@@ -330,7 +330,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Lt. Surge's Magnemite{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/04/Lightning-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Kuchiba City Gym Theme Deck](/Kuchiba-City-Gym#inner5)</td>
 		</tr>
 		<tr id="inner40">
 			<td>—</td>
@@ -338,7 +338,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Lt. Surge's Magneton{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/04/Lightning-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/6/65/Rarity_Rare_Holo.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Kuchiba City Gym Theme Deck](/Kuchiba-City-Gym#inner6)</td>
 		</tr>
 		<tr id="inner41">
 			<td>—</td>
@@ -394,7 +394,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Brock's Geodude{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/4/48/Fighting-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Nivi City Gym Theme Deck](/Nivi-City-Gym#inner6)</td>
 		</tr>
 		<tr id="inner48">
 			<td>—</td>
@@ -402,7 +402,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Brock's Onix{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/4/48/Fighting-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Nivi City Gym Theme Deck](/Nivi-City-Gym#inner11)</td>
 		</tr>
 		<tr id="inner49">
 			<td>—</td>
@@ -442,7 +442,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Brock's Golem{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/4/48/Fighting-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Nivi City Gym Theme Deck](/Nivi-City-Gym#inner9)</td>
 		</tr>
 		<tr id="inner54">
 			<td>—</td>
@@ -458,7 +458,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Brock's Rhydon{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/4/48/Fighting-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/6/65/Rarity_Rare_Holo.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Nivi City Gym Theme Deck](/Nivi-City-Gym#inner13)</td>
 		</tr>
 		<tr id="inner56">
 			<td>—</td>
@@ -522,7 +522,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika's Dratini{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/1/1d/Colorless-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner13)</td>
 		</tr>
 		<tr id="inner64">
 			<td>—</td>
@@ -562,7 +562,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Misty's Duel{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Hanada City Gym Theme Deck](/Hanada-City-Gym#inner17)</td>
 		</tr>
 		<tr id="inner69">
 			<td>—</td>
@@ -570,7 +570,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Misty's Tears{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Hanada City Gym Theme Deck](/Hanada-City-Gym#inner18)</td>
 		</tr>
 		<tr id="inner70">
 			<td>—</td>
@@ -586,7 +586,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Recall{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Nivi City Gym Theme Deck](/Nivi-City-Gym#inner15)</td>
 		</tr>
 		<tr id="inner72">
 			<td>—</td>
@@ -594,7 +594,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika's Maids{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner17)</td>
 		</tr>
 		<tr id="inner73">
 			<td>—</td>
@@ -602,7 +602,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika's Perfume{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner18)</td>
 		</tr>
 		<tr id="inner74">
 			<td>—</td>
@@ -610,7 +610,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Charity{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner19)</td>
 		</tr>
 		<tr id="inner75">
 			<td>—</td>
@@ -618,7 +618,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Misty's Wrath{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Hanada City Gym Theme Deck](/Hanada-City-Gym#inner16)</td>
 		</tr>
 		<tr id="inner76">
 			<td>—</td>
@@ -626,7 +626,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Vermilion City Gym{% endraw %}</td>
 			<td style="background:#FFE955;">**T [St]**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Kuchiba City Gym Theme Deck](/Kuchiba-City-Gym#inner16)</td>
 		</tr>
 		<tr id="inner77">
 			<td>—</td>
@@ -634,7 +634,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Brock's Training Method{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Nivi City Gym Theme Deck](/Nivi-City-Gym#inner19)</td>
 		</tr>
 		<tr id="inner78">
 			<td>—</td>
@@ -642,7 +642,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Celadon City Gym{% endraw %}</td>
 			<td style="background:#FFE955;">**T [St]**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner21)</td>
 		</tr>
 		<tr id="inner79">
 			<td>—</td>
@@ -650,7 +650,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Pewter City Gym{% endraw %}</td>
 			<td style="background:#FFE955;">**T [St]**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Nivi City Gym Theme Deck](/Nivi-City-Gym#inner21)</td>
 		</tr>
 		<tr id="inner80">
 			<td>—</td>
@@ -658,7 +658,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Cerulean City Gym{% endraw %}</td>
 			<td style="background:#FFE955;">**T [St]**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Hanada City Gym Theme Deck](/Hanada-City-Gym#inner22)</td>
 		</tr>
 		<tr id="inner81">
 			<td>—</td>
@@ -666,7 +666,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Lt. Surge's Treaty{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Kuchiba City Gym Theme Deck](/Kuchiba-City-Gym#inner23)</td>
 		</tr>
 		<tr id="inner82">
 			<td>—</td>
@@ -674,7 +674,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Good Manners{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Tamamushi City Gym Theme Deck](/Tamamushi-City-Gym#inner27)</td>
 		</tr>
 		<tr id="inner83">
 			<td>—</td>
@@ -682,7 +682,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Erika{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Tamamushi City Gym Theme Deck](Tamamushi-City-Gym#inner16). The image of this two card has a little bit different.</td>
 		</tr>
 		<tr id="inner84">
 			<td>—</td>
@@ -698,7 +698,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Misty{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Hanada City Gym Theme Deck](Hanada-City-Gym#inner15). The image of this two card has a little bit different.</td>
 		</tr>
 		<tr id="inner86">
 			<td>—</td>
@@ -722,7 +722,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Secret Mission{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Kuchiba City Gym Theme Deck](/Kuchiba-City-Gym#inner17)</td>
 		</tr>
 		<tr id="inner89">
 			<td>—</td>
@@ -730,7 +730,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Brock{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Nivi City Gym Theme Deck](Nivi-City-Gym#inner18). The image of this two card has a little bit different.</td>
 		</tr>
 		<tr id="inner90">
 			<td>—</td>
@@ -754,7 +754,7 @@ date: 2018-11-11 11:07:29
 			<td>{% raw %}Lt. Surge{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Kuchiba City Gym Theme Deck](Kuchiba-City-Gym#inner22). The image of this two card has a little bit different.</td>
 		</tr>
 		<tr id="inner93">
 			<td>—</td>

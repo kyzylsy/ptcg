@@ -31,8 +31,8 @@ tags:
 					<li>[Starter Deck](Starter-Deck)</li>
 					<li>[Nivi City Gym](Nivi-City-Gym)</li>
 					<li>[Hanada City Gym](Hanada-City-Gym)</li>
-					<li>Kuchiba City Gym</li>
-					<li>Tamamushi City Gym</li>
+					<li>[Kuchiba City Gym](Kuchiba-City-Gym)</li>
+					<li>[Tamamushi City Gym](Tamamushi-City-Gym)</li>
 					<li>Quick Starter Gift Set</li>
 					<li>Yamabuki City Gym</li>
 					<li>Guren Town Gym</li>

@@ -4,7 +4,7 @@ date: 2018-11-15 19:53:02
 ---
 [<< Back](/)
 #### Release Info
-Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) is a Japanese-exclusive Standard Deck that complements the [Leaders' Stadium](/Leaders-Stadium) expansion of the Pokémon Trading Card Game. Unlike traditional Standard Decks which contain 60 fixed cards, this deck has 64. The majority of these cards could not be found in the main expansion.
+Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) is a Japanese-exclusive Standard Deck that complements the [{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium) expansion of the Pokémon Trading Card Game. Unlike traditional Standard Decks which contain 60 fixed cards, this deck has 64. The majority of these cards could not be found in the main expansion.
 
 #### Card List
 <table>
@@ -33,7 +33,7 @@ Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) 
 			<td>{% raw %}Brock's Vulpix{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/a/ad/Fire-attack.png" height="25px" class="nofancybox"/></td>
 			<td>1×</td>
-			<td>This card had been reprinted in the Japanese [Leaders' Stadium](/Leaders-Stadium#inner17) expansion.</td>
+			<td>This card had been reprinted in the Japanese<br>[{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium#inner17) expansion.</td>
 		</tr>
 		<tr id="inner3">
 			<td>—</td>
@@ -65,7 +65,7 @@ Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) 
 			<td>{% raw %}Brock's Geodude{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/4/48/Fighting-attack.png" height="25px" class="nofancybox"/></td>
 			<td>2×</td>
-			<td>This card had been reprinted in the Japanese [Leaders' Stadium](/Leaders-Stadium#inner46) expansion.</td>
+			<td>This card had been reprinted in the Japanese<br>[{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium#inner47) expansion.</td>
 		</tr>
 		<tr id="inner7">
 			<td>—</td>
@@ -89,7 +89,7 @@ Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) 
 			<td>{% raw %}Brock's Golem{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/4/48/Fighting-attack.png" height="25px" class="nofancybox"/></td>
 			<td>1×</td>
-			<td>This card had been reprinted in the Japanese [Leaders' Stadium](/Leaders-Stadium#inner53) expansion.</td>
+			<td>This card had been reprinted in the Japanese<br>[{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium#inner53) expansion.</td>
 		</tr>
 		<tr id="inner10">
 			<td>—</td>
@@ -105,7 +105,7 @@ Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) 
 			<td>{% raw %}Brock's Onix{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/4/48/Fighting-attack.png" height="25px" class="nofancybox"/></td>
 			<td>2×</td>
-			<td>This card had been reprinted in the Japanese [Leaders' Stadium](/Leaders-Stadium#inner48) expansion.</td>
+			<td>This card had been reprinted in the Japanese<br>[{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium#inner48) expansion.</td>
 		</tr>
 		<tr id="inner12">
 			<td>—</td>
@@ -121,7 +121,7 @@ Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) 
 			<td>{% raw %}Brock's Rhydon{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/4/48/Fighting-attack.png" height="25px" class="nofancybox"/></td>
 			<td>1×</td>
-			<td>This card had been reprinted in the Japanese [Leaders' Stadium](/Leaders-Stadium#inner55) expansion.</td>
+			<td>This card had been reprinted in the Japanese<br>[{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium#inner55) expansion.</td>
 		</tr>
 		<tr id="inner14">
 			<td>—</td>
@@ -137,7 +137,7 @@ Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) 
 			<td>{% raw %}Recall{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td>1×</td>
-			<td></td>
+			<td>This card had been reprinted in the Japanese<br>[{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium#inner71) expansion.</td>
 		</tr>
 		<tr id="inner16">
 			<td>—</td>
@@ -161,7 +161,7 @@ Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) 
 			<td>{% raw %}Brock{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td>1×</td>
-			<td>This card is Holofoil print, while the Non Holofoil print was first released in the Japanese [Leaders' Stadium](/Leaders-Stadium#inner89) expansion. The image of this two card has a little bit different.</td>
+			<td>This card is Holofoil print, while the Non-Holofoil print was first released in the Japanese [{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium#inner89) expansion. The image of this two card has a little bit different.</td>
 		</tr>
 		<tr id="inner19">
 			<td>—</td>
@@ -169,7 +169,7 @@ Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) 
 			<td>{% raw %}Brock's Training Method{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td>1×</td>
-			<td>This card had been reprinted in the Japanese [Leaders' Stadium](/Leaders-Stadium#inner77) expansion.</td>
+			<td>This card had been reprinted in the Japanese<br>[{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium#inner77) expansion.</td>
 		</tr>
 		<tr id="inner20">
 			<td>—</td>
@@ -185,7 +185,7 @@ Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) 
 			<td>{% raw %}Pewter City Gym{% endraw %}</td>
 			<td style="background:#FFE955;">**T [St]**</td>
 			<td>1×</td>
-			<td>This card had been reprinted in the Japanese [Leaders' Stadium](/Leaders-Stadium#inner79) expansion.</td>
+			<td>This card had been reprinted in the Japanese<br>[{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium#inner79) expansion.</td>
 		</tr>
 		<tr id="inner22">
 			<td>—</td>
@@ -223,7 +223,7 @@ Nivi City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) 
 			<td>—</td>
 			<td><img src="" height="100px"/></td>
 			<td>{% raw %}Fighting Energy{% endraw %}</td>
-			<td style="background:#FF8D6D;"><img src="https://cdn.bulbagarden.net/upload/0/04/Lightning-attack.png" height="15px" class="nofancybox"/> **E**</td>
+			<td style="background:#FF8D6D;"><img src="https://cdn.bulbagarden.net/upload/4/48/Fighting-attack.png" height="15px" class="nofancybox"/> **E**</td>
 			<td>28×</td>
 			<td></td>
 		</tr>
