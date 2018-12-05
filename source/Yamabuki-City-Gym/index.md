@@ -118,7 +118,7 @@ Yamabuki City Gym (Japanese: ヤマブキシティジム ナツメ Yamabuki City
 		<tr id="inner13">
 			<td>—</td>
 			<td><img src="" height="100px"/></td>
-			<td>{% raw %}Sabrina's Hypno{% endraw %}</td>
+			<td>{% raw %}Sabrina's Porygon{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/1/1d/Colorless-attack.png" height="25px" class="nofancybox"/></td>
 			<td>2×</td>
 			<td>This card had been reprinted in the Japanese<br>[{% raw %}Challenge from the Darkness{% endraw %}](/Challenge-from-the-Darkness#inner66) expansion.</td>

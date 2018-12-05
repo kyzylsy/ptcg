@@ -226,7 +226,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Blaine's Vulpix{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/a/ad/Fire-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Guren Town Gym Theme Deck](/Guren-Town-Gym#inner3)</td>
 		</tr>
 		<tr id="inner27">
 			<td>—</td>
@@ -242,7 +242,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Blaine's Ponyta{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/a/ad/Fire-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Guren Town Gym Theme Deck](/Guren-Town-Gym#inner9)</td>
 		</tr>
 		<tr id="inner29">
 			<td>—</td>
@@ -258,7 +258,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Blaine's Rapidash{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/a/ad/Fire-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Guren Town Gym Theme Deck](/Guren-Town-Gym#inner10)</td>
 		</tr>
 		<tr id="inner31">
 			<td>—</td>
@@ -266,7 +266,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Blaine's Magmar{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/a/ad/Fire-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Guren Town Gym Theme Deck](/Guren-Town-Gym#inner11)</td>
 		</tr>
 		<tr id="inner32">
 			<td>—</td>
@@ -282,7 +282,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Blaine's Ninetales{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/a/ad/Fire-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Guren Town Gym Theme Deck](/Guren-Town-Gym#inner4)</td>
 		</tr>
 		<tr id="inner34">
 			<td>—</td>
@@ -290,7 +290,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Blaine's Arcanine{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/a/ad/Fire-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/6/65/Rarity_Rare_Holo.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Guren Town Gym Theme Deck](/Guren-Town-Gym#inner7)</td>
 		</tr>
 		<tr id="inner35">
 			<td>—</td>
@@ -394,7 +394,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Sabrina's Kadabra{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/e/ef/Psychic-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Yamabuki City Gym Theme Deck](/Yamabuki-City-Gym#inner3)</td>
 		</tr>
 		<tr id="inner48">
 			<td>—</td>
@@ -426,7 +426,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Sabrina's Hypno{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/e/ef/Psychic-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Yamabuki City Gym Theme Deck](/Yamabuki-City-Gym#inner10)</td>
 		</tr>
 		<tr id="inner52">
 			<td>—</td>
@@ -442,7 +442,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Sabrina's Alakazam{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/e/ef/Psychic-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/6/65/Rarity_Rare_Holo.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Yamabuki City Gym Theme Deck](/Yamabuki-City-Gym#inner4)</td>
 		</tr>
 		<tr id="inner54">
 			<td>—</td>
@@ -530,7 +530,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Blaine's Doduo{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/1/1d/Colorless-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Guren Town Gym Theme Deck](/Guren-Town-Gym#inner12)</td>
 		</tr>
 		<tr id="inner65">
 			<td>—</td>
@@ -546,7 +546,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Sabrina's Porygon{% endraw %}</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/1/1d/Colorless-attack.png" height="25px" class="nofancybox"/></td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Yamabuki City Gym Theme Deck](/Yamabuki-City-Gym#inner13)</td>
 		</tr>
 		<tr id="inner67">
 			<td>—</td>
@@ -626,7 +626,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Blaine's Gamble{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Guren Town Gym Theme Deck](/Guren-Town-Gym#inner15)</td>
 		</tr>
 		<tr id="inner77">
 			<td>—</td>
@@ -642,7 +642,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Sabrina's Gaze{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/8/8c/Rarity_Common.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Yamabuki City Gym Theme Deck](/Yamabuki-City-Gym#inner19)</td>
 		</tr>
 		<tr id="inner79">
 			<td>—</td>
@@ -674,7 +674,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Blaine's Quiz #3{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card only released in Yamabuki City Gym, while the [{% raw %}Blaine's Quiz #1{% endraw %}](/Guren-Town-Gym#inner16) and [{% raw %}Blaine's Quiz #1{% endraw %}](/Guren-Town-Gym#inner17) had been previously released in [Guren Town Gym](/Guren-Town-Gym)</td>
 		</tr>
 		<tr id="inner83">
 			<td>—</td>
@@ -698,7 +698,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Cinnabar City Gym{% endraw %}</td>
 			<td style="background:#FFE955;">**T [St]**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Guren Town Gym Theme Deck](/Guren-Town-Gym#inner19)</td>
 		</tr>
 		<tr id="inner86">
 			<td>—</td>
@@ -714,7 +714,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Sabrina's ESP{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Yamabuki City Gym Theme Deck](/Yamabuki-City-Gym#inner18)</td>
 		</tr>
 		<tr id="inner88">
 			<td>—</td>
@@ -738,7 +738,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Saffron City Gym{% endraw %}</td>
 			<td style="background:#FFE955;">**T [St]**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/0/0f/Rarity_Uncommon.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card was first released in the<br>[Yamabuki City Gym Theme Deck](/Yamabuki-City-Gym#inner24)</td>
 		</tr>
 		<tr id="inner91">
 			<td>—</td>
@@ -762,7 +762,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Blaine{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Guren Town Gym Theme Deck](/Guren-Town-Gym#inner14). The image of this two card has a little bit different.</td>
 		</tr>
 		<tr id="inner94">
 			<td>—</td>
@@ -802,7 +802,7 @@ date: 2018-11-11 11:14:38
 			<td>{% raw %}Sabrina{% endraw %}</td>
 			<td style="background:#FFE955;">**T**</td>
 			<td><img src="https://cdn.bulbagarden.net/upload/b/b9/Rarity_Rare.png" height="13px" class="nofancybox"/></td>
-			<td></td>
+			<td>This card is Non-Holofoil print, while the Holofoil print was first released in the [Yamabuki City Gym Theme Deck](/Yamabuki-City-Gym#inner17). The image of this two card has a little bit different.</td>
 		</tr>
 	</tbody>
 </table>
