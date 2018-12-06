@@ -5,7 +5,7 @@ date: 2018-12-06 00:42:46
 [<< Back](/)
 #### Release Info
 The Vending Machine (Japanese: 拡張シート Expansion Sheet) cards are a series of special collections for the Pokémon Trading Card Game released in Japan. 
-The Expansion Sheet 1 was released on March 23rd, 1998. It features eighteen sheets with three cards per-sheet along with cardboard damage counters and coins.
+The Expansion Sheet 1 was released on March 23rd, 1998. It features eighteen sheets with three cards per-sheet along with cardboard damage counters and coins and the main color of this series is blue.
 
 #### Card List
 <table>
