@@ -43,7 +43,7 @@ tags:
 				<ul>
 					<li>[Extended Sheet 1](/Expansion-Sheet-1) <img src="https://cdn.bulbagarden.net/upload/a/af/SetSymbolVending.png" height="16px" class="nofancybox"/></li>
 					<li>[Extended Sheet 2](/Expansion-Sheet-2) <img src="https://cdn.bulbagarden.net/upload/a/af/SetSymbolVending.png" height="16px" class="nofancybox"/></li>
-					<li>Extended Sheet 3 <img src="https://cdn.bulbagarden.net/upload/a/af/SetSymbolVending.png" height="16px" class="nofancybox"/></li>
+					<li>[Extended Sheet 3](/Expansion-Sheet-3) <img src="https://cdn.bulbagarden.net/upload/a/af/SetSymbolVending.png" height="16px" class="nofancybox"/></li>
 					<li>Southern Islands <img src="https://cdn.bulbagarden.net/upload/9/96/SetSymbolSouthern_Islands.png" height="15px" class="nofancybox"/></li>
 				</ul>
 			</td>
