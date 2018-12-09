@@ -36,7 +36,7 @@ tags:
 					<li>[Quick Starter Gift Set](Quick-Starter-Gift-Set)</li>
 					<li>[Yamabuki City Gym](Yamabuki-City-Gym)</li>
 					<li>[Guren Town Gym](Guren-Town-Gym)</li>
-					<li>Intro Pack <img src="https://cdn.bulbagarden.net/upload/2/26/SetSymbolBulbasaurIntroPack.png" height="20px" class="nofancybox" style="vertical-align: middle;"/> <img src="https://cdn.bulbagarden.net/upload/d/d3/SetSymbolSquirtleIntroPack.png" height="20px" class="nofancybox" style="vertical-align: middle;"/></li>
+					<li>[Intro Pack](Intro-Pack) <img src="https://cdn.bulbagarden.net/upload/2/26/SetSymbolBulbasaurIntroPack.png" height="20px" class="nofancybox" style="vertical-align: middle;"/> <img src="https://cdn.bulbagarden.net/upload/d/d3/SetSymbolSquirtleIntroPack.png" height="20px" class="nofancybox" style="vertical-align: middle;"/></li>
 				</ul>
 			</td>
 			<td>
