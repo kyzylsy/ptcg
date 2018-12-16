@@ -4,7 +4,7 @@ date: 2018-11-22 19:54:09
 ---
 [<< Back](/)
 #### Release Info
-Hanada City Gym (Japanese: ニビシティジム タケシ Nivi City Gym Takeshi) is a Japanese-exclusive Standard Deck that complements the [{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium) expansion of the Pokémon Trading Card Game. Unlike traditional Standard Decks, which contain 60 fixed cards, this deck has 64. The majority of these cards could not be found in the main expansion.
+Hanada City Gym (Japanese: ハナダシティジム カスミ Hanada City Gym Kasumi) is a Japanese-exclusive Standard Deck that complements the [{% raw %}Leaders' Stadium{% endraw %}](/Leaders-Stadium) expansion of the Pokémon Trading Card Game. Unlike traditional Standard Decks, which contain 60 fixed cards, this deck has 64. The majority of these cards could not be found in the main expansion.
 
 #### Card List
 <table>

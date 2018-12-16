@@ -61,7 +61,7 @@ tags:
 			<td>
 				<ul>
 					<li>Starter Pack</li>
-					<li>Intro Pack ★Neo <img src="https://cdn.bulbagarden.net/upload/8/88/SetSymbolNeo_Destiny.png" height="15px" class="nofancybox"/> <img src="https://cdn.bulbagarden.net/upload/e/e5/SetSymbolChikoritaIntroPackNeo.png" height="15px" class="nofancybox"/> <img src="https://cdn.bulbagarden.net/upload/7/76/SetSymbolTotodileIntroPackNeo.png" height="15px" class="nofancybox"/></li>
+					<li>Intro Pack ★Neo <img src="https://cdn.bulbagarden.net/upload/e/e5/SetSymbolChikoritaIntroPackNeo.png" height="15px" class="nofancybox"/> <img src="https://cdn.bulbagarden.net/upload/7/76/SetSymbolTotodileIntroPackNeo.png" height="15px" class="nofancybox"/></li>
 				</ul>
 			</td>
 			<td>
