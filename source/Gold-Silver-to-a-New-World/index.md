@@ -15,7 +15,7 @@ A nine-card promo set was released in Japan before Neo 1 was released, featuring
 			<th style="width: 28px">No.</th>
 			<th style="width: 55px">Preview</th>
 			<th style="width: 180px">Name</th>
-			<th style="width: 36px">Type</th>
+			<th style="width: 50px">Type</th>
 			<th style="width: 40px">Rarity</th>
 			<th>Release Notes</th>
 		</tr>
