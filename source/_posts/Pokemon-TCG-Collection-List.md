@@ -48,5 +48,29 @@ tags:
 				</ul>
 			</td>
 		</tr>
+		<tr>
+			<td>Neo Era<br/><span style="color:#858585">Complete ✔</span></td>
+			<td>
+				<ul>
+					<li>Gold, Silver, to a New World... <img src="https://cdn.bulbagarden.net/upload/7/75/SetSymbolNeo_Genesis.png" height="15px" class="nofancybox"/></li>
+					<li>Crossing the Ruins... <img src="https://cdn.bulbagarden.net/upload/f/f8/SetSymbolNeo_Discovery.png" height="15px" class="nofancybox"/></li>
+					<li>Awakening Legends <img src="https://cdn.bulbagarden.net/upload/c/c6/SetSymbolNeo_Revelation.png" height="15px" class="nofancybox"/></li>
+					<li>Darkness, and to Light... <img src="https://cdn.bulbagarden.net/upload/8/88/SetSymbolNeo_Destiny.png" height="15px" class="nofancybox"/></li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Starter Pack</li>
+					<li>Intro Pack ★Neo <img src="https://cdn.bulbagarden.net/upload/8/88/SetSymbolNeo_Destiny.png" height="15px" class="nofancybox"/> <img src="https://cdn.bulbagarden.net/upload/e/e5/SetSymbolChikoritaIntroPackNeo.png" height="15px" class="nofancybox"/> <img src="https://cdn.bulbagarden.net/upload/7/76/SetSymbolTotodileIntroPackNeo.png" height="15px" class="nofancybox"/></li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Premium File <img src="https://cdn.bulbagarden.net/upload/7/75/SetSymbolNeo_Genesis.png" height="15px" class="nofancybox"/></li>
+					<li>Premium File 2 <img src="https://cdn.bulbagarden.net/upload/f/f8/SetSymbolNeo_Discovery.png" height="15px" class="nofancybox"/></li>
+					<li>Premium File 3 <img src="https://cdn.bulbagarden.net/upload/c/c6/SetSymbolNeo_Revelation.png" height="15px" class="nofancybox"/></li>
+				</ul>
+			</td>
+		</tr>
 	</tbody>
 </table>
