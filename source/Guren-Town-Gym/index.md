@@ -215,7 +215,7 @@ Guren Town Gym (Japanese: グレンタウンジム カツラ Guren Town Gym Kats
 			<td>-</td>
 			<td><img src="" height="100px"/></td>
 			<td>{% raw %}Fire Energy{% endraw %}</td>
-			<td style="background:#C596BD;"><img src="https://cdn.bulbagarden.net/upload/a/ad/Fire-attack.png" height="15px" class="nofancybox"/> **E**</td>
+			<td style="background:#EC8484;"><img src="https://cdn.bulbagarden.net/upload/a/ad/Fire-attack.png" height="15px" class="nofancybox"/> **E**</td>
 			<td>27×</td>
 			<td></td>
 		</tr>
