@@ -2,21 +2,21 @@
 A Personal Pokémon TCG Gallery
 
 ## Main Set
-+ Pocket Monsters Card Game: ✔Era Complete
++ Pocket Monsters Card Game: :tada: ✔ Era Complete
    + [x] EX1: 拡張パック 第1弾 (Expansion Pack)
    + [x] EX2: 拡張パック 第2弾「ポケモンジャングル」(Pokemon Jungle)
    + [x] EX3: 拡張パック 第3弾「化石の秘密」(The Mystery of the Fossils)
    + [x] EX4: 拡張パック 第4弾「ロケット団」(Rocket Gang)
    + [x] GYM1: ジム拡張 第1弾「リーダーズスタジアム」(Gym Booster 1: Leaders' Stadium)
    + [x] GYM2: ジム拡張 第2弾「闇からの挑戦」(Gym Booster 2: Challenge from the Darkness)
-+ Pokémon Card Neo: ✔ Era Complete
++ Pokémon Card Neo: :gift: ✔ Era Complete
    + [x] Neo: 拡張パック 第1弾「金、銀　新世界へ...」(Gold, Silver, to a New World...)
    + [x] Neo: 拡張パック 第2弾「遺跡をこえて...」(Crossing the Ruins...)
    + [x] Neo: 拡張パック 第3弾「めざめる伝説」(Awakening Legend)
    + [x] Neo: 拡張パック 第4弾「闇、そして光へ...」(Darkness, and to Light...)
-+ Pokémon Card VS: ✔ Era Complete
++ Pokémon Card VS: :fire: ✔ Era Complete
    + [x]  VS: 「ポケモンカード★VS」(Pokémon Card★VS)
-+ Pokémon Card WEB: ✔ Era Complete
++ Pokémon Card WEB: :crown: ✔ Era Complete
    + [x] WEB: 「ポケモンカード★web」(Pokémon Card★web)
 + Pokémon-e:
    + [x] e-Series: 第1弾基本拡張パック(Base Expansion Pack)
@@ -55,7 +55,7 @@ A Personal Pokémon TCG Gallery
    + [ ] DPt2: 拡張パック「時の果ての絆」(Bonds to the End of Time)
    + [ ] DPt3: 拡張パック「フロンティアの鼓動」(Beat of the Frontier)
    + [ ] DPt4: 拡張パック「アルセウス光臨」(The Dawn of Arceus)
-+ Pokémon Card Game LEGEND: ✔ Era Complete
++ Pokémon Card Game LEGEND: :moneybag: ✔ Era Complete
    + [x] LEGEND1: 拡張パック「ハートゴールドコレクション」(Heart Gold Collection)
    + [x] LEGEND1: 拡張パック「ソウルシルバーコレクション」(Soul Silver Collection)
    + [x] LEGEND2: 拡張パック「よみがえる伝説」(Reviving Legend)
