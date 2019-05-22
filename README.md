@@ -2,7 +2,7 @@
 A Personal Pokémon TCG Gallery
 
 ## Main Set
-+ Pocket Monsters Card Game: ![](https://placehold.it/350x90/009955/fff?text=✔Era Complete)
++ Pocket Monsters Card Game: ✔Era Complete
    + [x] EX1: 拡張パック 第1弾 (Expansion Pack 1)
    + [x] EX2: 拡張パック 第2弾「ポケモンジャングル」(Pokemon Jungle)
    + [x] EX3: 拡張パック 第3弾「化石の秘密」(The Mystery of the Fossils)
