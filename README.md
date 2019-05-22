@@ -196,6 +196,17 @@ A Personal Pokémon TCG Gallery
    + [ ] 構築スタンダードデッキ「ハガネール鋼」(Pre-built Standard Deck Haganeil Metal)
    + [ ] 構築スタンダードデッキ「バンギラス悪」(Pre-built Standard Deck Bangiras Darkness)
 + Pokémon Card Game BW:
+   + [ ] バトル強化デッキ「ビリジオン」(Battle Strength Deck Virizion)
+   + [ ] バトル強化デッキ「テラキオン」(Battle Strength Deck Terrakion)
+   + [ ] バトル強化デッキ「コバルオン」(Battle Strength Deck Cobalion)
+   + [ ] バトルテーマデッキ「ビクティニ」(Battle Theme Deck Victini)
+   + [ ] バトル強化デッキ60「レシラムＥＸ」(Battle Strength Deck ReshiramEX)
+   + [ ] バトル強化デッキ60「ゼクロムＥＸ」(Battle Strength Deck ZekromEX)
+   + [ ] バトルギフトセット「ボルトロスＶＳトルネロス」(Battle Gift Set Thundurus vs Tornadus)
+   + [ ] サザンドラデッキ30 (Sazandora Half Deck)
+   + [ ] ガブリアスデッキ30 (Gaburias Half Deck)
+   + [ ] バトル強化デッキ30「ケルディオ」(Battle Strength Deck Keldeo)
+   + [ ] はじめてセット 全国図鑑版セット (National Pokédex Beginning Set)
 ## SubSet
 
 ## Promotional
