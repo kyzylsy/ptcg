@@ -110,20 +110,24 @@ A Personal Pokémon TCG Gallery
    + [x] SM10: 拡張パック「ダブルブレイズ」(Double Blaze)
    + [ ] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
 
+## SubSet
++ Pokémon Card Game Sun & Moon:
+   + [x] SM8b: ハイクラスパックGXウルトラシャイニー(Strength Expansion Pack Sky Legend)
+   + [x] SM9a: 強化拡張パック「ナイトユニゾン」(Strength Expansion Pack Night Unison)
+   + [x] SM9b: 強化拡張パック「フルメタルウォール」(Strength Expansion Pack Full Metal Wall)
+   + [x] SM10a: 強化拡張パック「ジージーエンド」(Strength Expansion Pack GG End)
+   + [x] SM10b: 強化拡張パック「スカイレジェンド」(Strength Expansion Pack Sky Legend)
+
 ## Deck
-<details>
-<summary>
 + Pocket Monsters Card Game:
-</summary>
-+ [x] ポケモンジム第1弾「ニビシティジム タケシ」(Nivi City Gym Takeshi)
-+ [x] ポケモンジム第1弾「ハナダシティジム カスミ」(Hanada City Gym Kasumi)
-+ [x] ポケモンジム第2弾「クチバシティジム マチス」(Kuchiba City Gym Matis)
-+ [x] ポケモンジム第2弾「タマムシシティジム エリカ」(Tamamushi City Gym Erika)
-+ [x] ポケモンジム第3弾「ヤマブキシティジム ナツメ」(Yamabuki City Gym Natsume)
-+ [x] ポケモンジム第3弾「グレンタウンジム カツラ」(Guren Town Gym Katsura)
-+ [ ] クイックスターターギフト(Quick Starter Gift)
-+ [x] イントロパック(Intro Pack)
-</details>
+   + [x] ポケモンジム第1弾「ニビシティジム タケシ」(Nivi City Gym Takeshi)
+   + [x] ポケモンジム第1弾「ハナダシティジム カスミ」(Hanada City Gym Kasumi)
+   + [x] ポケモンジム第2弾「クチバシティジム マチス」(Kuchiba City Gym Matis)
+   + [x] ポケモンジム第2弾「タマムシシティジム エリカ」(Tamamushi City Gym Erika)
+   + [x] ポケモンジム第3弾「ヤマブキシティジム ナツメ」(Yamabuki City Gym Natsume)
+   + [x] ポケモンジム第3弾「グレンタウンジム カツラ」(Guren Town Gym Katsura)
+   + [ ] クイックスターターギフト(Quick Starter Gift)
+   + [x] イントロパック(Intro Pack)
 + Pokémon Card Neo:
    + [x] イントロパック★neo(Intro Pack ★Neo)
 + Pokémon Card Game e-Series:
@@ -247,6 +251,5 @@ A Personal Pokémon TCG Gallery
    + [ ] SMD: 30枚デッキ対戦セット「サトシVSロケット団」(30-Card Deck Competition Set Ash vs Team Rocket)
    + [x] SME: スターターセット伝説「ソルガレオGX ルナアーラGX」(Solgaleo-GX & Lunala-GX Legendary Starter Set)
    + [ ] SMF: プレミアムトレーナーボックス「ウルトラサン・ウルトラムーン」(Ultra Sun & Ultra Moon Premium Trainer Box)
-## SubSet
 
 ## Promotional
