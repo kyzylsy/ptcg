@@ -111,15 +111,19 @@ A Personal Pokémon TCG Gallery
    + [ ] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
 
 ## Deck
+<details>
+<summary>
 + Pocket Monsters Card Game:
-   + [x] ポケモンジム第1弾「ニビシティジム タケシ」(Nivi City Gym Takeshi)
-   + [x] ポケモンジム第1弾「ハナダシティジム カスミ」(Hanada City Gym Kasumi)
-   + [x] ポケモンジム第2弾「クチバシティジム マチス」(Kuchiba City Gym Matis)
-   + [x] ポケモンジム第2弾「タマムシシティジム エリカ」(Tamamushi City Gym Erika)
-   + [x] ポケモンジム第3弾「ヤマブキシティジム ナツメ」(Yamabuki City Gym Natsume)
-   + [x] ポケモンジム第3弾「グレンタウンジム カツラ」(Guren Town Gym Katsura)
-   + [ ] クイックスターターギフト(Quick Starter Gift)
-   + [x] イントロパック(Intro Pack)
+</summary>
++ [x] ポケモンジム第1弾「ニビシティジム タケシ」(Nivi City Gym Takeshi)
++ [x] ポケモンジム第1弾「ハナダシティジム カスミ」(Hanada City Gym Kasumi)
++ [x] ポケモンジム第2弾「クチバシティジム マチス」(Kuchiba City Gym Matis)
++ [x] ポケモンジム第2弾「タマムシシティジム エリカ」(Tamamushi City Gym Erika)
++ [x] ポケモンジム第3弾「ヤマブキシティジム ナツメ」(Yamabuki City Gym Natsume)
++ [x] ポケモンジム第3弾「グレンタウンジム カツラ」(Guren Town Gym Katsura)
++ [ ] クイックスターターギフト(Quick Starter Gift)
++ [x] イントロパック(Intro Pack)
+</details>
 + Pokémon Card Neo:
    + [x] イントロパック★neo(Intro Pack ★Neo)
 + Pokémon Card Game e-Series:
