@@ -175,7 +175,7 @@ A Personal Pokémon TCG Gallery
    + [ ] ランダム構築スターター「リザードン★炎」(Random Constructed Starter Lizardon ★Fire)
    + [ ] ランダム構築スターター「カメックス★水」(Random Constructed Starter Kamex ★Water)
    + [x] 構築済みスターター「デオキシスデッキ」(Pre-built Starter Deoxys Deck)
-   + [ ] 構築済みスターター「レックウザデッキ」(Pre-built Starter Rayquaza Deck)
+   + [x] 構築済みスターター「レックウザデッキ」(Pre-built Starter Rayquaza Deck)
    + [ ] 映画公開記念VSパック「裂空のデオキシス」(Movie Commemoration VS Pack: Sky-Splitting Deoxys)
    + [ ] 構築済みデッキ「ロケット団ハーフデッキW -black-」(Pre-built Deck Rocket Gang Half Deck W -black-)
    + [ ] 構築済みデッキ「ロケット団ハーフデッキW -silver-」(Pre-built Deck Rocket Gang Half Deck W -silver-)
