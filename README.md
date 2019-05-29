@@ -189,7 +189,7 @@ A Personal Pokémon TCG Gallery
    + [ ] 構築済みスターター「メガニウムex★草」(Pre-built Starter Meganium ex ★Grass)
    + [ ] 構築済みスターター「バクフーンex★炎」(Pre-built Starter Bakphoon ex ★Fire)
    + [ ] 構築済みスターター「オーダイルex★水」(Pre-built Starter Ordile ex ★Water)
-   + [ ] 構築済みスターター「まぼろしのミュウ」(Pre-built Starter Mirage's Mew)
+   + [x] 構築済みスターター「まぼろしのミュウ」(Pre-built Starter Mirage's Mew)
    + [ ] マスターキット (Master Kit)
    + [ ] 映画公開記念VSパック「波導のルカリオ」(Movie Commemoration VS Pack: Wave's Lucario)
    + [ ] ホロンの研究塔ハーフデッキ1/2炎EX (Holon Research Tower Half Deck 1/2 Fire EX)
