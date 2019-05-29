@@ -6,16 +6,17 @@ tags:
 
 <table>
 	<thead>
-		<tr>
+		<tr align="center">
 			<th>Releases</th>
 			<th>Main Sets</th>
 			<th>Decks</th>
 			<th>Promo</th>
+			<th>SubSet</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>Original Era<br/><span style="color:#858585">Complete ✔</span></td>
+			<td align="center">Pocket Monsters Card Game<br/><span style="color:#858585">✔ Era Complete</span></td>
 			<td>
 				<ul>
 					<li>[Expansion Pack](1st-Starter-Expansion-Pack)</li>
@@ -28,14 +29,13 @@ tags:
 			</td>
 			<td>
 				<ul>
-					<li>[Starter Deck](Starter-Deck)</li>
-					<li>[Nivi City Gym](Nivi-City-Gym)</li>
-					<li>[Hanada City Gym](Hanada-City-Gym)</li>
-					<li>[Kuchiba City Gym](Kuchiba-City-Gym)</li>
-					<li>[Tamamushi City Gym](Tamamushi-City-Gym)</li>
-					<li>[Quick Starter Gift Set](Quick-Starter-Gift-Set)</li>
-					<li>[Yamabuki City Gym](Yamabuki-City-Gym)</li>
-					<li>[Guren Town Gym](Guren-Town-Gym)</li>
+					<li>[Nivi City Gym](Nivi-City-Gym) <img src="https://cdn.bulbagarden.net/upload/3/38/SetSymbolGym_Booster.png" height="15px" class="nofancybox" style="vertical-align: middle;"/></li>
+					<li>[Hanada City Gym](Hanada-City-Gym) <img src="https://cdn.bulbagarden.net/upload/3/38/SetSymbolGym_Booster.png" height="15px" class="nofancybox" style="vertical-align: middle;"/></li>
+					<li>[Kuchiba City Gym](Kuchiba-City-Gym) <img src="https://cdn.bulbagarden.net/upload/3/38/SetSymbolGym_Booster.png" height="15px" class="nofancybox" style="vertical-align: middle;"/></li>
+					<li>[Tamamushi City Gym](Tamamushi-City-Gym) <img src="https://cdn.bulbagarden.net/upload/3/38/SetSymbolGym_Booster.png" height="15px" class="nofancybox" style="vertical-align: middle;"/></li>
+					<li>[Quick Starter Gift Set](Quick-Starter-Gift-Set) <img src="https://cdn.bulbagarden.net/upload/a/af/SetSymbolVending.png" height="16px" class="nofancybox" style="vertical-align: middle;"/></li>
+					<li>[Yamabuki City Gym](Yamabuki-City-Gym) <img src="https://cdn.bulbagarden.net/upload/3/38/SetSymbolGym_Booster.png" height="15px" class="nofancybox" style="vertical-align: middle;"/></li>
+					<li>[Guren Town Gym](Guren-Town-Gym) <img src="https://cdn.bulbagarden.net/upload/3/38/SetSymbolGym_Booster.png" height="15px" class="nofancybox" style="vertical-align: middle;"/></li>
 					<li>[Intro Pack](Intro-Pack) <img src="https://cdn.bulbagarden.net/upload/2/26/SetSymbolBulbasaurIntroPack.png" height="20px" class="nofancybox" style="vertical-align: middle;"/> <img src="https://cdn.bulbagarden.net/upload/d/d3/SetSymbolSquirtleIntroPack.png" height="20px" class="nofancybox" style="vertical-align: middle;"/></li>
 				</ul>
 			</td>
@@ -47,9 +47,10 @@ tags:
 					<li>[Southern Islands](Southern-Islands) <img src="https://cdn.bulbagarden.net/upload/9/96/SetSymbolSouthern_Islands.png" height="15px" class="nofancybox" style="vertical-align: middle;"/></li>
 				</ul>
 			</td>
+			<td></td>
 		</tr>
 		<tr>
-			<td>Neo Era<br/><span style="color:#858585">Complete ✔</span></td>
+			<td align="center">Pokémon Card Neo<br/><span style="color:#858585">✔ Era Complete</span></td>
 			<td>
 				<ul>
 					<li>[Gold, Silver, to a New World...](Gold-Silver-to-a-New-World) <img src="https://cdn.bulbagarden.net/upload/7/75/SetSymbolNeo_Genesis.png" height="15px" class="nofancybox"/></li>
@@ -60,7 +61,6 @@ tags:
 			</td>
 			<td>
 				<ul>
-					<li>Starter Pack</li>
 					<li>Intro Pack ★Neo <img src="https://cdn.bulbagarden.net/upload/e/e5/SetSymbolChikoritaIntroPackNeo.png" height="15px" class="nofancybox"/> <img src="https://cdn.bulbagarden.net/upload/7/76/SetSymbolTotodileIntroPackNeo.png" height="15px" class="nofancybox"/></li>
 				</ul>
 			</td>
@@ -71,6 +71,48 @@ tags:
 					<li>Premium File 3 <img src="https://cdn.bulbagarden.net/upload/c/c6/SetSymbolNeo_Revelation.png" height="15px" class="nofancybox"/></li>
 				</ul>
 			</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td align="center">Pokémon Card VS<br/><span style="color:#858585">✔ Era Complete</span></td>
+			<td>
+				<ul>
+					<li>Pokémon Card★VS <img src="https://cdn.bulbagarden.net/upload/c/c3/SetSymbolVS.png" height="15px" class="nofancybox"/></li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Leaders Pokémon Theater Limited Edition</li>
+				</ul>
+			</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td align="center">Pokémon Card★web<br/><span style="color:#858585">✔ Era Complete</span></td>
+			<td>
+				<ul>
+					<li>Pokémon Card★web</li>
+				</ul>
+			</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td align="center">Pokémon Card Game e-Series</td>
+			<td>
+				<ul>
+					<li><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Base Expansion Pack <img src="https://cdn.bulbagarden.net/upload/7/7f/SetSymbolBase_Expansion_Pack.png" height="15px" class="nofancybox"/></li>
+					<li>The Town on No Map <img src="https://cdn.bulbagarden.net/upload/d/de/SetSymbolThe_Town_on_No_Map.png" height="15px" class="nofancybox"/></li>
+					<li>Wind from the Sea <img src="https://cdn.bulbagarden.net/upload/1/15/SetSymbolWind_from_the_Sea.png" height="15px" class="nofancybox"/></li>
+					<li>Split Earth <img src="https://cdn.bulbagarden.net/upload/c/c6/SetSymbolSplit_Earth.png" height="15px" class="nofancybox"/></li>
+					<li>Mysterious Mountains <img src="https://cdn.bulbagarden.net/upload/5/50/SetSymbolMysterious_Mountains.png" height="15px" class="nofancybox"/></li>
+				</ul>
+			</td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
