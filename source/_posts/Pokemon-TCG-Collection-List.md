@@ -15,8 +15,8 @@ tags:
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-			<td align="center">Pocket Monsters Card Game<br/><span style="color:#858585">✔ Era Complete</span></td>
+		<tr align="center">
+			<td>Pocket Monsters Card Game<br/><span style="color:#858585">✔ Era Complete</span></td>
 			<td>
 				<ul>
 					<li>[Expansion Pack](1st-Starter-Expansion-Pack)</li>
@@ -49,8 +49,8 @@ tags:
 			</td>
 			<td></td>
 		</tr>
-		<tr>
-			<td align="center">Pokémon Card Neo<br/><span style="color:#858585">✔ Era Complete</span></td>
+		<tr align="center">
+			<td>Pokémon Card Neo<br/><span style="color:#858585">✔ Era Complete</span></td>
 			<td>
 				<ul>
 					<li>[Gold, Silver, to a New World...](Gold-Silver-to-a-New-World) <img src="https://cdn.bulbagarden.net/upload/7/75/SetSymbolNeo_Genesis.png" height="15px" class="nofancybox"/></li>
@@ -73,8 +73,8 @@ tags:
 			</td>
 			<td></td>
 		</tr>
-		<tr>
-			<td align="center">Pokémon Card VS<br/><span style="color:#858585">✔ Era Complete</span></td>
+		<tr align="center">
+			<td>Pokémon Card VS<br/><span style="color:#858585">✔ Era Complete</span></td>
 			<td>
 				<ul>
 					<li>Pokémon Card★VS <img src="https://cdn.bulbagarden.net/upload/c/c3/SetSymbolVS.png" height="15px" class="nofancybox"/></li>
@@ -88,8 +88,8 @@ tags:
 			<td></td>
 			<td></td>
 		</tr>
-		<tr>
-			<td align="center">Pokémon Card★web<br/><span style="color:#858585">✔ Era Complete</span></td>
+		<tr align="center">
+			<td>Pokémon Card★web<br/><span style="color:#858585">✔ Era Complete</span></td>
 			<td>
 				<ul>
 					<li>Pokémon Card★web</li>
@@ -99,8 +99,8 @@ tags:
 			<td></td>
 			<td></td>
 		</tr>
-		<tr>
-			<td align="center">Pokémon Card Game e-Series</td>
+		<tr align="center">
+			<td>Pokémon Card Game e-Series</td>
 			<td>
 				<ul>
 					<li><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Base Expansion Pack <img src="https://cdn.bulbagarden.net/upload/7/7f/SetSymbolBase_Expansion_Pack.png" height="15px" class="nofancybox"/></li>
