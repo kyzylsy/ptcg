@@ -84,7 +84,7 @@ A Personal Pokémon TCG Gallery
    + [ ] XY5: 拡張パック「ガイアボルケーノ」(Gaia Volcano)
    + [ ] XY5: 拡張パック「タイダルストーム」(Tidal Storm)
    + [ ] XY6: 拡張パック「エメラルドブレイク」(Emerald Break)
-   + [ ] XY7: 拡張パック「バンデットリング」(Bandit Ring)
+   + [ ] XY7: 拡張パック「バンデッドリング」(Bandit Ring)
 + Pokémon Card Game XY BREAK:
    + [ ] 20th: スターターパック (Starter Pack)
    + [ ] XY8:  拡張パック「青い衝撃」(Blue Shock)
