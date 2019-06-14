@@ -29,7 +29,7 @@ A Personal Pokémon TCG Gallery
    + [x] ADV: 第2弾拡張パック「砂漠のきせき」(Desert of Miracles)
    + [ ] ADV: 第3弾拡張パック「天空の覇者」(Rulers of the Heavens)
    + [ ] ADV: 強化拡張パックex1「マグマVSアクア　ふたつの野望」(Magma VS Aqua: Two Ambitions)
-   + [ ] ADV: 第4弾拡張パック「とかれた封印」(Undone Seal)
+   + [x] ADV: 第4弾拡張パック「とかれた封印」(Undone Seal)
 + Pokémon Card Game:
    + [ ] PCG: 拡張パック「伝説の飛翔」(Flight of Legends)
    + [x] PCG: 拡張パック「蒼空の激突」(Clash of the Blue Sky)
