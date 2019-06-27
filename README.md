@@ -25,7 +25,7 @@ A Personal Pokémon TCG Gallery
    + [ ] e-Series: 第4弾拡張パック「裂けた大地」(Split Earth)
    + [ ] e-Series: 第5弾拡張パック「神秘なる山」(Mysterious Mountains)
 + Pokémon Card Game ADV:
-   + [ ] ADV: 第1弾拡張パック (Expansion Pack)
+   + [x] ADV: 第1弾拡張パック (Expansion Pack)
    + [x] ADV: 第2弾拡張パック「砂漠のきせき」(Desert of Miracles)
    + [ ] ADV: 第3弾拡張パック「天空の覇者」(Rulers of the Heavens)
    + [ ] ADV: 強化拡張パックex1「マグマVSアクア　ふたつの野望」(Magma VS Aqua: Two Ambitions)
@@ -33,7 +33,7 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game:
    + [ ] PCG: 拡張パック「伝説の飛翔」(Flight of Legends)
    + [x] PCG: 拡張パック「蒼空の激突」(Clash of the Blue Sky)
-   + [ ] PCG: 拡張パック「ロケット団の逆襲」(Rocket Gang Strikes Back)
+   + [x] PCG: 拡張パック「ロケット団の逆襲」(Rocket Gang Strikes Back)
    + [ ] PCG: 拡張パック「金の空、銀の海」(Golden Sky, Silvery Ocean)
    + [ ] PCG: 拡張パック「まぼろしの森」(Mirage Forest)
    + [ ] PCG: 拡張パック「ホロンの研究塔」(Holon Research Tower)
@@ -83,7 +83,7 @@ A Personal Pokémon TCG Gallery
    + [ ] XY4: 拡張パック「ファントムゲート」(Phantom Gate)
    + [ ] XY5: 拡張パック「ガイアボルケーノ」(Gaia Volcano)
    + [ ] XY5: 拡張パック「タイダルストーム」(Tidal Storm)
-   + [ ] XY6: 拡張パック「エメラルドブレイク」(Emerald Break)
+   + [x] XY6: 拡張パック「エメラルドブレイク」(Emerald Break)
    + [ ] XY7: 拡張パック「バンデッドリング」(Bandit Ring)
 + Pokémon Card Game XY BREAK:
    + [ ] 20th: スターターパック (Starter Pack)
@@ -166,7 +166,7 @@ A Personal Pokémon TCG Gallery
    + [ ] 構築済みスターター「フライゴンデッキ」(Pre-built Starter Flygon Deck)
    + [ ] 構築済みスターター「ボーマンダデッキ」(Pre-built Starter Bohmander Deck)
    + [ ] 映画公開記念VSパック (Movie Commemoration VS Pack)
-   + [ ] 構築済みデッキ「マグマ団ハーフデッキW」(Pre-built Deck Magma Gang Half Deck W)
+   + [x] 構築済みデッキ「マグマ団ハーフデッキW」(Pre-built Deck Magma Gang Half Deck W)
    + [ ] 構築済みデッキ「アクア団ハーフデッキW」(Pre-built Deck Aqua Gang Half Deck W)
    + [x] ギフトボックス (Gift Box)
    + [ ] 構築済みスターター「メタグロスデッキ」(Pre-built Starter Metagross Deck)
