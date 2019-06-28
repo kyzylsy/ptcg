@@ -111,6 +111,7 @@ A Personal Pokémon TCG Gallery
    + [x] SM9: 拡張パック「タッグボルト」(Tag Bolt)
    + [x] SM10: 拡張パック「ダブルブレイズ」(Double Blaze)
    + [ ] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
+   + [ ] SM11a: 強化拡張パックリ「ミックスバウト」(Remix Bout)
 
 ## SubSet
 + Pokémon Card Game LEGEND:
