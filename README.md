@@ -27,7 +27,7 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game ADV:
    + [x] ADV: 第1弾拡張パック (Expansion Pack)
    + [x] ADV: 第2弾拡張パック「砂漠のきせき」(Desert of Miracles)
-   + [ ] ADV: 第3弾拡張パック「天空の覇者」(Rulers of the Heavens)
+   + [x] ADV: 第3弾拡張パック「天空の覇者」(Rulers of the Heavens)
    + [ ] ADV: 強化拡張パックex1「マグマVSアクア　ふたつの野望」(Magma VS Aqua: Two Ambitions)
    + [x] ADV: 第4弾拡張パック「とかれた封印」(Undone Seal)
 + Pokémon Card Game:
@@ -61,12 +61,12 @@ A Personal Pokémon TCG Gallery
    + [x] LEGEND2: 拡張パック「よみがえる伝説」(Reviving Legend)
    + [x] LEGEND3: 拡張パック「頂上大激突」(Clash at the Summit)
 + Pokémon Card Game BW:
-   + [ ] BW1: 拡張パック「ブラックコレクション」(Black Collection)
-   + [ ] BW1: 拡張パック「ホワイトコレクション」(White Collection)
-   + [ ] BW2: 拡張パック「レッドコレクション」(Red Collection)
-   + [ ] BW3: 拡張パック「サイコドライブ」(Psycho Drive)
-   + [ ] BW3: 拡張パック「ヘイルブリザード」(Hail Blizzard)
-   + [ ] BW4: 拡張パック「ダークラッシュ」(Dark Rush)
+   + [x] BW1: 拡張パック「ブラックコレクション」(Black Collection)
+   + [x] BW1: 拡張パック「ホワイトコレクション」(White Collection)
+   + [x] BW2: 拡張パック「レッドコレクション」(Red Collection)
+   + [x] BW3: 拡張パック「サイコドライブ」(Psycho Drive)
+   + [x] BW3: 拡張パック「ヘイルブリザード」(Hail Blizzard)
+   + [x] BW4: 拡張パック「ダークラッシュ」(Dark Rush)
    + [ ] BW5: 拡張パック「リューズブラスト」(Dragon Blast)
    + [ ] BW5: 拡張パック「リューノブレード」(Dragon Blade)
    + [ ] BW6: 拡張パック「フリーズボルト」(Freeze Bolt)
@@ -116,7 +116,7 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game LEGEND:
    + [ ] ロストリンク (Lost Link)
 + Pokémon Card Game BW:
-   + [ ] DS: ドラゴンセレクション (Dragon Selection)
+   + [x] DS: ドラゴンセレクション (Dragon Selection)
    + [ ] SC: コンセプトパック「シャイニーコレクション」(Shiny Collection)
    + [ ] EBB: コンセプトパック「EXバトルブースト」(EX Battle Boost)
 + Pokémon Card Game XY: 
