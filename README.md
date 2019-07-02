@@ -95,8 +95,8 @@ A Personal Pokémon TCG Gallery
    + [ ] XY11: 拡張パック「冷酷の反逆者」(Cruel Traitor)
    + [ ] CP6: 拡張パック「20th Anniversary」(Expansion Pack 20th Anniversary)
 + Pokémon Card Game Sun & Moon:
-   + [ ] SM1S: 拡張パック「コレクションサン」(Collection Sun)
-   + [ ] SM1M: 拡張パック「コレクションムーン」(Collection Moon)
+   + [x] SM1S: 拡張パック「コレクションサン」(Collection Sun)
+   + [x] SM1M: 拡張パック「コレクションムーン」(Collection Moon)
    + [ ] SM2K: 拡張パック「キミを待つ島々」(Islands Await You)
    + [ ] SM2L: 拡張パック「アローラの月光」(Alolan Moonlight)
    + [ ] SM3H: 拡張パック「闘う虹を見たか」(To Have Seen the Battle Rainbow)
@@ -110,7 +110,7 @@ A Personal Pokémon TCG Gallery
    + [x] SM8: 拡張パック「超爆インパクト」(Super-Burst Impact)
    + [x] SM9: 拡張パック「タッグボルト」(Tag Bolt)
    + [x] SM10: 拡張パック「ダブルブレイズ」(Double Blaze)
-   + [ ] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
+   + [x] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
    + [ ] SM11a: 強化拡張パックリ「ミックスバウト」(Remix Bout)
 
 ## SubSet
