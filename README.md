@@ -111,7 +111,6 @@ A Personal Pokémon TCG Gallery
    + [x] SM9: 拡張パック「タッグボルト」(Tag Bolt)
    + [x] SM10: 拡張パック「ダブルブレイズ」(Double Blaze)
    + [x] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
-   + [ ] SM11a: 強化拡張パックリ「ミックスバウト」(Remix Bout)
 
 ## SubSet
 + Pokémon Card Game LEGEND:
@@ -144,6 +143,7 @@ A Personal Pokémon TCG Gallery
    + [x] SM9b: 強化拡張パック「フルメタルウォール」(Strength Expansion Pack Full Metal Wall)
    + [x] SM10a: 強化拡張パック「ジージーエンド」(Strength Expansion Pack GG End)
    + [x] SM10b: 強化拡張パック「スカイレジェンド」(Strength Expansion Pack Sky Legend)
+   + [ ] SM11a: 強化拡張パックリ「ミックスバウト」(Remix Bout)
 
 ## Deck
 + Pocket Monsters Card Game:
