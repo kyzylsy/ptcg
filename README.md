@@ -90,10 +90,10 @@ A Personal Pokémon TCG Gallery
    + [x] XY8:  拡張パック「青い衝撃」(Blue Shock)
    + [x] XY8:  拡張パック「赤い閃光」(Red Flash)
    + [x] XY9:  拡張パック「破天の怒り」(Rage of the Broken Heavens)
+   + [x] 20th: ポケットモンスターカードゲーム「スターターパック」(Starter Pack)
    + [x] XY10: 拡張パック「めざめる超王」(Awakening Psychic King)
    + [x] XY11: 拡張パック「爆熱の闘士」(Fever-Burst Fighter)
    + [x] XY11: 拡張パック「冷酷の反逆者」(Cruel Traitor)
-   + [x] CP6: 拡張パック「20th Anniversary」(Expansion Pack 20th Anniversary)
 + Pokémon Card Game Sun & Moon:
    + [x] SM1S: 拡張パック「コレクションサン」(Collection Sun)
    + [x] SM1M: 拡張パック「コレクションムーン」(Collection Moon)
@@ -126,6 +126,7 @@ A Personal Pokémon TCG Gallery
    + [x] CP3: ポケキュンコレクション (Pokékyun Collection)
    + [x] CP4: プレミアムチャンピオンパック「EX×M×BREAK」(Premium Champion Pack: EX×M×BREAK)
    + [x] CP5: 幻・伝説ドリームキラコレクション (Mythical & Legendary Dream Shine Collection)
+   + [x] CP6: 拡張パック「20th Anniversary」(Expansion Pack 20th Anniversary)
 + Pokémon Card Game Sun & Moon:
    + [ ] SM1+: 強化拡張パック「サン&ムーン」(Strength Expansion Pack Sun & Moon)
    + [ ] SM2+: 強化拡張パック「新たなる試練の向こう」(Strength Expansion Pack Facing a New Trial)
@@ -143,7 +144,7 @@ A Personal Pokémon TCG Gallery
    + [x] SM9b: 強化拡張パック「フルメタルウォール」(Strength Expansion Pack Full Metal Wall)
    + [x] SM10a: 強化拡張パック「ジージーエンド」(Strength Expansion Pack GG End)
    + [x] SM10b: 強化拡張パック「スカイレジェンド」(Strength Expansion Pack Sky Legend)
-   + [ ] SM11a: 強化拡張パックリ「ミックスバウト」(Remix Bout)
+   + [x] SM11a: 強化拡張パックリ「ミックスバウト」(Remix Bout)
 
 ## Deck
 + Pocket Monsters Card Game:
