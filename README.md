@@ -129,7 +129,7 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game Sun & Moon:
    + [ ] SM1+: 強化拡張パック「サン&ムーン」(Strength Expansion Pack Sun & Moon)
    + [ ] SM2+: 強化拡張パック「新たなる試練の向こう」(Strength Expansion Pack Facing a New Trial)
-   + [ ] SMXY: ハイクラスパック「THE BEST OF XY」(High Class Pack The Best of XY)
+   + [x] SMXY: ハイクラスパック「THE BEST OF XY」(High Class Pack The Best of XY)
    + [ ] SM3+: 強化拡張パック「ひかる伝説」(Strength Expansion Pack Shining Legends)
    + [ ] SM4+: ハイクラスパック「GXバトルブースト」(High Class Pack GX Battle Boost)
    + [x] SM5+: 強化拡張パック「ウルトラフォース」(Strength Expansion Pack Ultra Force)
