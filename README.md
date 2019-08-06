@@ -86,11 +86,9 @@ A Personal Pokémon TCG Gallery
    + [x] XY6: 拡張パック「エメラルドブレイク」(Emerald Break)
    + [x] XY7: 拡張パック「バンデッドリング」(Bandit Ring)
 + Pokémon Card Game XY BREAK:
-   + [x] 20th: スターターパック (Starter Pack)
    + [x] XY8:  拡張パック「青い衝撃」(Blue Shock)
    + [x] XY8:  拡張パック「赤い閃光」(Red Flash)
    + [x] XY9:  拡張パック「破天の怒り」(Rage of the Broken Heavens)
-   + [x] 20th: ポケットモンスターカードゲーム「スターターパック」(Starter Pack)
    + [x] XY10: 拡張パック「めざめる超王」(Awakening Psychic King)
    + [x] XY11: 拡張パック「爆熱の闘士」(Fever-Burst Fighter)
    + [x] XY11: 拡張パック「冷酷の反逆者」(Cruel Traitor)
@@ -112,7 +110,7 @@ A Personal Pokémon TCG Gallery
    + [x] SM10: 拡張パック「ダブルブレイズ」(Double Blaze)
    + [x] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
 
-## SubSet
+## SubSet & Special
 + Pokémon Card Game LEGEND:
    + [ ] ロストリンク (Lost Link)
 + Pokémon Card Game BW:
@@ -124,6 +122,7 @@ A Personal Pokémon TCG Gallery
    + [x] CP2: 伝説キラコレクション (Legendary Shine Collection)
 + Pokémon Card Game XY BREAK:
    + [x] CP3: ポケキュンコレクション (Pokékyun Collection)
+   + [x] 20th: ポケットモンスターカードゲーム「スターターパック」(Starter Pack)
    + [x] CP4: プレミアムチャンピオンパック「EX×M×BREAK」(Premium Champion Pack: EX×M×BREAK)
    + [x] CP5: 幻・伝説ドリームキラコレクション (Mythical & Legendary Dream Shine Collection)
    + [x] CP6: 拡張パック「20th Anniversary」(Expansion Pack 20th Anniversary)
