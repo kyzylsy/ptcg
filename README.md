@@ -37,9 +37,9 @@ A Personal Pokémon TCG Gallery
    + [ ] PCG: 拡張パック「金の空、銀の海」(Golden Sky, Silvery Ocean)
    + [ ] PCG: 拡張パック「まぼろしの森」(Mirage Forest)
    + [ ] PCG: 拡張パック「ホロンの研究塔」(Holon Research Tower)
-   + [ ] PCG: 拡張パック「ホロンの幻影」(Holon Phantoms)
+   + [x] PCG: 拡張パック「ホロンの幻影」(Holon Phantoms)
    + [ ] PCG: 拡張パック「きせきの結晶」(Miracle Crystal)
-   + [ ] PCG: 拡張パック「さいはての攻防」(Offence and Defence to the Extreme Limits)
+   + [x] PCG: 拡張パック「さいはての攻防」(Offence and Defence to the Extreme Limits)
    + [ ] PCG: ワールドチャンピオンズパック (World Championship Pack)
 + Pokémon Card Game DP:
    + [ ] DP1: 拡張パック「時空の創造」(Space-Time Creation)
@@ -103,12 +103,13 @@ A Personal Pokémon TCG Gallery
    + [ ] SM4A: 拡張パック「超次元の暴獣」(Ultradimensional Beasts)
    + [ ] SM5S: 拡張パック「ウルトラサン」(Ultra Sun)
    + [ ] SM5M: 拡張パック「ウルトラムーン」(Ultra Moon)
-   + [ ] SM6: 拡張パック「禁断の光」(Forbidden Light)
-   + [x] SM7: 拡張パック「裂空のカリスマ」(Sky-Splitting Charisma)
-   + [x] SM8: 拡張パック「超爆インパクト」(Super-Burst Impact)
-   + [x] SM9: 拡張パック「タッグボルト」(Tag Bolt)
+   + [ ] SM6:  拡張パック「禁断の光」(Forbidden Light)
+   + [x] SM7:  拡張パック「裂空のカリスマ」(Sky-Splitting Charisma)
+   + [x] SM8:  拡張パック「超爆インパクト」(Super-Burst Impact)
+   + [x] SM9:  拡張パック「タッグボルト」(Tag Bolt)
    + [x] SM10: 拡張パック「ダブルブレイズ」(Double Blaze)
    + [x] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
+   + [ ] SM12: 拡張パック「オルタージェネシス」(Alter Genesis)
 
 ## SubSet & Special
 + Pokémon Card Game LEGEND:
@@ -143,7 +144,8 @@ A Personal Pokémon TCG Gallery
    + [x] SM9b: 強化拡張パック「フルメタルウォール」(Strength Expansion Pack Full Metal Wall)
    + [x] SM10a: 強化拡張パック「ジージーエンド」(Strength Expansion Pack GG End)
    + [x] SM10b: 強化拡張パック「スカイレジェンド」(Strength Expansion Pack Sky Legend)
-   + [x] SM11a: 強化拡張パックリ「ミックスバウト」(Remix Bout)
+   + [x] SM11a: 強化拡張パック「リミックスバウト」(Strength Expansion Pack Dream League)
+   + [x] SM11b: 強化拡張パック「ドリームリーグ」(Strength Expansion Pack Dream League)
 
 ## Deck
 + Pocket Monsters Card Game:
