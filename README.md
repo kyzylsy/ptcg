@@ -21,7 +21,7 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game e-Series:
    + [x] e-Series: 第1弾基本拡張パック (Base Expansion Pack)
    + [ ] e-Series: 第2弾拡張パック「地図にない町」(The Town on No Map)
-   + [ ] e-Series: 第3弾拡張パック「海からの風」(Wind from the Sea)
+   + [x] e-Series: 第3弾拡張パック「海からの風」(Wind from the Sea)
    + [ ] e-Series: 第4弾拡張パック「裂けた大地」(Split Earth)
    + [ ] e-Series: 第5弾拡張パック「神秘なる山」(Mysterious Mountains)
 + Pokémon Card Game ADV:
