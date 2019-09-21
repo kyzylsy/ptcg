@@ -36,7 +36,7 @@ A Personal Pokémon TCG Gallery
    + [x] PCG: 拡張パック「ロケット団の逆襲」(Rocket Gang Strikes Back)
    + [ ] PCG: 拡張パック「金の空、銀の海」(Golden Sky, Silvery Ocean)
    + [x] PCG: 拡張パック「まぼろしの森」(Mirage Forest)
-   + [ ] PCG: 拡張パック「ホロンの研究塔」(Holon Research Tower)
+   + [x] PCG: 拡張パック「ホロンの研究塔」(Holon Research Tower)
    + [x] PCG: 拡張パック「ホロンの幻影」(Holon Phantoms)
    + [ ] PCG: 拡張パック「きせきの結晶」(Miracle Crystal)
    + [x] PCG: 拡張パック「さいはての攻防」(Offence and Defence to the Extreme Limits)
