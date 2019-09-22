@@ -75,7 +75,7 @@ A Personal Pokémon TCG Gallery
    + [ ] BW8: 拡張パック「ラセンフォース」(Spiral Force)
    + [ ] BW8: 拡張パック「ライデンナックル」(Thunder Knuckle)
    + [ ] BW9: 拡張パック「メガロキャノン」(Megalo Cannon)
-+ Pokémon Card Game XY: 
++ Pokémon Card Game XY: :ribbon: ✔ Era Complete
    + [x] XY1: 拡張パック「コレクションX」(Collection X)
    + [x] XY1: 拡張パック「コレクションY」(Collection Y)
    + [x] XY2: 拡張パック「ワイルドブレイズ」(Wild Blaze)
@@ -85,7 +85,7 @@ A Personal Pokémon TCG Gallery
    + [x] XY5: 拡張パック「タイダルストーム」(Tidal Storm)
    + [x] XY6: 拡張パック「エメラルドブレイク」(Emerald Break)
    + [x] XY7: 拡張パック「バンデッドリング」(Bandit Ring)
-+ Pokémon Card Game XY BREAK:
++ Pokémon Card Game XY BREAK: :rainbow: ✔ Era Complete
    + [x] XY8:  拡張パック「青い衝撃」(Blue Shock)
    + [x] XY8:  拡張パック「赤い閃光」(Red Flash)
    + [x] XY9:  拡張パック「破天の怒り」(Rage of the Broken Heavens)
