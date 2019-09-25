@@ -109,7 +109,7 @@ A Personal Pokémon TCG Gallery
    + [x] SM9:  拡張パック「タッグボルト」(Tag Bolt)
    + [x] SM10: 拡張パック「ダブルブレイズ」(Double Blaze)
    + [x] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
-   + [ ] SM12: 拡張パック「オルタージェネシス」(Alter Genesis)
+   + [x] SM12: 拡張パック「オルタージェネシス」(Alter Genesis)
 
 ## SubSet & Special
 + Pokémon Card Game LEGEND:
