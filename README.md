@@ -161,7 +161,7 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Neo:
    + [x] イントロパック★neo(Intro Pack ★Neo)
 + Pokémon Card Game e-Series:
-   + [ ] スターターパック(Starter Pack)
+   + [x] スターターパック(Starter Pack)
    + [x] 劇場限定VSパック(Theater Limited VS Pack)
 + Pokémon Card Game ADV:
    + [ ] 構築済みスターター「キモリデッキ」(Pre-built Starter Kimori Deck)
