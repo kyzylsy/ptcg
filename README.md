@@ -113,7 +113,7 @@ A Personal Pokémon TCG Gallery
 
 ## SubSet & Special
 + Pokémon Card Game LEGEND:
-   + [ ] ロストリンク (Lost Link)
+   + [x] ロストリンク (Lost Link)
 + Pokémon Card Game BW:
    + [x] DS: ドラゴンセレクション (Dragon Selection)
    + [ ] SC: コンセプトパック「シャイニーコレクション」(Shiny Collection)
