@@ -146,7 +146,7 @@ A Personal Pokémon TCG Gallery
    + [x] SM10b: 強化拡張パック「スカイレジェンド」(Strength Expansion Pack Sky Legend)
    + [x] SM11a: 強化拡張パック「リミックスバウト」(Strength Expansion Pack Dream League)
    + [x] SM11b: 強化拡張パック「ドリームリーグ」(Strength Expansion Pack Dream League)
-   + [ ] SM12a: ハイクラスパック「TAG TEAM GX タッグオールスターズ」(High Class Pack TAG TEAM GX All Stars)
+   + [x] SM12a: ハイクラスパック「TAG TEAM GX タッグオールスターズ」(High Class Pack TAG TEAM GX All Stars)
 
 ## Deck
 + Pocket Monsters Card Game:
