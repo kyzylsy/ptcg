@@ -95,8 +95,8 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game Sun & Moon:
    + [x] SM1S: 拡張パック「コレクションサン」(Collection Sun)
    + [x] SM1M: 拡張パック「コレクションムーン」(Collection Moon)
-   + [ ] SM2K: 拡張パック「キミを待つ島々」(Islands Await You)
-   + [ ] SM2L: 拡張パック「アローラの月光」(Alolan Moonlight)
+   + [x] SM2K: 拡張パック「キミを待つ島々」(Islands Await You)
+   + [x] SM2L: 拡張パック「アローラの月光」(Alolan Moonlight)
    + [ ] SM3H: 拡張パック「闘う虹を見たか」(To Have Seen the Battle Rainbow)
    + [ ] SM3N: 拡張パック「光を喰らう闇」(Darkness that Consumes Light)
    + [ ] SM4S: 拡張パック「覚醒の勇者」(Awakened Heroes)
@@ -116,7 +116,7 @@ A Personal Pokémon TCG Gallery
    + [x] ロストリンク (Lost Link)
 + Pokémon Card Game BW:
    + [x] DS: ドラゴンセレクション (Dragon Selection)
-   + [ ] SC: コンセプトパック「シャイニーコレクション」(Shiny Collection)
+   + [x] SC: コンセプトパック「シャイニーコレクション」(Shiny Collection)
    + [ ] EBB: コンセプトパック「EXバトルブースト」(EX Battle Boost)
 + Pokémon Card Game XY: 
    + [x] CP1: マグマ団VSアクア団ダブルクライシス (Magma Gang VS Aqua Gang: Double Crisis)
@@ -128,8 +128,8 @@ A Personal Pokémon TCG Gallery
    + [x] CP5: 幻・伝説ドリームキラコレクション (Mythical & Legendary Dream Shine Collection)
    + [x] CP6: 拡張パック「20th Anniversary」(Expansion Pack 20th Anniversary)
 + Pokémon Card Game Sun & Moon:
-   + [ ] SM1+: 強化拡張パック「サン&ムーン」(Strength Expansion Pack Sun & Moon)
-   + [ ] SM2+: 強化拡張パック「新たなる試練の向こう」(Strength Expansion Pack Facing a New Trial)
+   + [x] SM1+: 強化拡張パック「サン&ムーン」(Strength Expansion Pack Sun & Moon)
+   + [x] SM2+: 強化拡張パック「新たなる試練の向こう」(Strength Expansion Pack Facing a New Trial)
    + [x] SMXY: ハイクラスパック「THE BEST OF XY」(High Class Pack The Best of XY)
    + [ ] SM3+: 強化拡張パック「ひかる伝説」(Strength Expansion Pack Shining Legends)
    + [ ] SM4+: ハイクラスパック「GXバトルブースト」(High Class Pack GX Battle Boost)
