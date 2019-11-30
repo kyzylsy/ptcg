@@ -110,6 +110,9 @@ A Personal Pokémon TCG Gallery
    + [x] SM10: 拡張パック「ダブルブレイズ」(Double Blaze)
    + [x] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
    + [x] SM12: 拡張パック「オルタージェネシス」(Alter Genesis)
++ Pokémon Card Game Sword & Shield:
+   + [ ] S1W: 拡張パック「ソード」(Sword)
+   + [ ] S1H: 拡張パック「シールド」(Shield)
 
 ## SubSet & Special
 + Pokémon Card Game LEGEND:
@@ -304,4 +307,6 @@ A Personal Pokémon TCG Gallery
    + [ ] SMN: デッキビルドBOX「TAG TEAM GX」(Tag Team GX Deck Build Box)
    + [ ] SML: ファミリーポケモンカードゲーム (Family Pokémon Card Game)
    + [x] SMP2: ムービースペシャルパック「名探偵ピカチュウ」(Movie Special Pack Great Detective Pikachu)
++ Pokémon Card Game Sword & Shield:
+   + [x] sA: スターターセットV「草/炎/水/雷/闘」(Starter Set V)
 ## Promotional
