@@ -111,8 +111,8 @@ A Personal Pokémon TCG Gallery
    + [x] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
    + [x] SM12: 拡張パック「オルタージェネシス」(Alter Genesis)
 + Pokémon Card Game Sword & Shield:
-   + [ ] S1W: 拡張パック「ソード」(Sword)
-   + [ ] S1H: 拡張パック「シールド」(Shield)
+   + [x] S1W: 拡張パック「ソード」(Sword)
+   + [x] S1H: 拡張パック「シールド」(Shield)
 
 ## SubSet & Special
 + Pokémon Card Game LEGEND:
