@@ -234,8 +234,8 @@ A Personal Pokémon TCG Gallery
    + [ ] バトルスタートデッキ「カメックス」(Blastoise Battle Starter Deck)
    + [ ] バトルスタートデッキ「ライチュウ」(Raichu Battle Starter Deck)
    + [ ] エキスパートデッキ「リーフィアVSメタグロス +Online」(Expert Deck Leafeon vs Metagross +Online)
-   + [ ] 構築スタンダードデッキ「ハガネール鋼」(Pre-built Standard Deck Haganeil Metal)
-   + [ ] 構築スタンダードデッキ「バンギラス悪」(Pre-built Standard Deck Bangiras Darkness)
+   + [x] 構築スタンダードデッキ「ハガネール鋼」(Pre-built Standard Deck Haganeil Metal)
+   + [x] 構築スタンダードデッキ「バンギラス悪」(Pre-built Standard Deck Bangiras Darkness)
 + Pokémon Card Game BW:
    + [x] CS1: コレクションシート「旅立ちの仲間」(Collection Sheet Journey Partners)
    + [ ] はじめてセット (Beginning Set)
