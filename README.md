@@ -226,8 +226,8 @@ A Personal Pokémon TCG Gallery
    + [ ] コレクションパック「レジギガスLV.X」(Regigigas LV.X Collection Pack)
    + [ ] コレクションパック「ミュウツーLV.X」(Mewtwo LV.X Collection Pack)
    + [ ] コレクションパック「シェイミLV.X」(Shaymin LV.X Collection Pack)
-   + [ ] 構築スタンダードデッキ「アルセウスLV.X 草&炎」(Constructed Standard Deck Arceus LV.X Grass & Fire)
-   + [ ] 構築スタンダードデッキ「アルセウスLV.X 雷&超」(Constructed Standard Deck Arceus LV.X Lightning & Psychic)
+   + [x] 構築スタンダードデッキ「アルセウスLV.X 草&炎」(Constructed Standard Deck Arceus LV.X Grass & Fire)
+   + [x] 構築スタンダードデッキ「アルセウスLV.X 雷&超」(Constructed Standard Deck Arceus LV.X Lightning & Psychic)
 + Pokémon Card Game LEGEND:
    + [ ] バトルスタートデッキ「ドダイトス」(Torterra Battle Starter Deck)
    + [ ] バトルスタートデッキ「ブーバーン」(Magmortar Battle Starter Deck)
