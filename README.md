@@ -40,7 +40,7 @@ A Personal Pokémon TCG Gallery
    + [x] PCG: 拡張パック「ホロンの幻影」(Holon Phantoms)
    + [ ] PCG: 拡張パック「きせきの結晶」(Miracle Crystal)
    + [x] PCG: 拡張パック「さいはての攻防」(Offence and Defence to the Extreme Limits)
-   + [ ] PCG: ワールドチャンピオンズパック (World Championship Pack)
+   + [x] PCG: ワールドチャンピオンズパック (World Championship Pack)
 + Pokémon Card Game DP:
    + [ ] DP1: 拡張パック「時空の創造」(Space-Time Creation)
    + [ ] DP2: 拡張パック「湖の秘密」(Mystery of the Lakes)
