@@ -202,7 +202,7 @@ A Personal Pokémon TCG Gallery
    + [ ] ホロンの研究塔ハーフデッキ1/2炎EX (Holon Research Tower Half Deck 1/2 Fire EX)
    + [ ] ホロンの研究塔ハーフデッキ1/2水EX (Holon Research Tower Half Deck 1/2 Water EX)
    + [ ] ホロンの研究塔ハーフデッキ1/2雷EX (Holon Research Tower Half Deck 1/2 Lightning EX)
-   + [ ] ギフトボックス「ミュウ・ルカリオver.」(Gift Box Mew • Lucario Version)
+   + [x] ギフトボックス「ミュウ・ルカリオver.」(Gift Box Mew • Lucario Version)
    + [x] 構築済みスターター「大地のグラードンex」(Pre-built Starter Earth's Groudon ex)
    + [x] 構築済みスターター「大海のカイオーガex」(Pre-built Starter Ocean's Kyogre ex)
    + [ ] 構築済みデッキ「雷震!バンギラスex」(Pre-built Deck Thunder! Bangiras ex)
