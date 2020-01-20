@@ -301,7 +301,7 @@ A Personal Pokémon TCG Gallery
    + [ ] SMI: スターターセット「炎のブースターGX」(Flareon-GX Starter Set Fire)
    + [ ] SMI: スターターセット「水のシャワーズGX」(Vaporeon-GX Starter Set Water)
    + [ ] SMI: スターターセット「雷のサンダースGX」(Jolteon-GX Starter Set Lightning)
-   + [ ] SMJ: プレミアムトレーナーボックス「TAG TEAM GX」(Tag Team GX Premium Trainer Box)
+   + [x] SMJ: プレミアムトレーナーボックス「TAG TEAM GX」(Tag Team GX Premium Trainer Box)
    + [ ] SMK: トレーナーバトルデッキ「ニビシティジムのタケシ」(Trainer Battle Deck Takeshi of Nibi City Gym)
    + [ ] SMK: トレーナーバトルデッキ「ハナダシティジムのカスミ」(Trainer Battle Deck Kasumi of Hanada City Gym)
    + [ ] SMN: デッキビルドBOX「TAG TEAM GX」(Tag Team GX Deck Build Box)
@@ -309,4 +309,6 @@ A Personal Pokémon TCG Gallery
    + [x] SMP2: ムービースペシャルパック「名探偵ピカチュウ」(Movie Special Pack Great Detective Pikachu)
 + Pokémon Card Game Sword & Shield:
    + [x] sA: スターターセットV「草/炎/水/雷/闘」(Starter Set V)
+   + [x] sB: プレミアムトレーナーボックス ソード＆シールド(Sword & Shield Premium Trainer Box)
+   + [x] sP1: ザシアン＋ザマゼンタBOX(Zacian + Zamazenta Box)
 ## Promotional
