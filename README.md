@@ -98,7 +98,7 @@ A Personal Pokémon TCG Gallery
    + [x] SM2K: 拡張パック「キミを待つ島々」(Islands Await You)
    + [x] SM2L: 拡張パック「アローラの月光」(Alolan Moonlight)
    + [ ] SM3H: 拡張パック「闘う虹を見たか」(To Have Seen the Battle Rainbow)
-   + [ ] SM3N: 拡張パック「光を喰らう闇」(Darkness that Consumes Light)
+   + [x] SM3N: 拡張パック「光を喰らう闇」(Darkness that Consumes Light)
    + [ ] SM4S: 拡張パック「覚醒の勇者」(Awakened Heroes)
    + [ ] SM4A: 拡張パック「超次元の暴獣」(Ultradimensional Beasts)
    + [ ] SM5S: 拡張パック「ウルトラサン」(Ultra Sun)
@@ -111,8 +111,13 @@ A Personal Pokémon TCG Gallery
    + [x] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
    + [x] SM12: 拡張パック「オルタージェネシス」(Alter Genesis)
 + Pokémon Card Game Sword & Shield:
-   + [x] S1W: 拡張パック「ソード」(Sword)
+   + [x] S1W: 拡張パック「ソード 」(Sword)
    + [x] S1H: 拡張パック「シールド」(Shield)
+   + [x] S2: 拡張パック「反逆クラッシュ」(Rebellion Crash)
+   + [x] S3: 拡張パック「ムゲンゾーン」(Infinity Zone)
+   + [x] S4: 拡張パック「仰天のボルテッカー」(Amazing Volt Tackle)
+   + [ ] S5I: 拡張パック「一撃マスター」(Single Strike Master)
+   + [ ] S5R: 拡張パック「連撃マスター」(Rapid Strike Master)
 
 ## SubSet & Special
 + Pokémon Card Game LEGEND:
@@ -150,6 +155,11 @@ A Personal Pokémon TCG Gallery
    + [x] SM11a: 強化拡張パック「リミックスバウト」(Strength Expansion Pack Dream League)
    + [x] SM11b: 強化拡張パック「ドリームリーグ」(Strength Expansion Pack Dream League)
    + [x] SM12a: ハイクラスパック「TAG TEAM GX タッグオールスターズ」(High Class Pack TAG TEAM GX All Stars)
++ Pokémon Card Game Sword & Shield:
+   + [x] S1a: 強化拡張パック「VMAXライジング」(Strength Expansion Pack: VMAX Rising)
+   + [x] S2a: 強化拡張パック「爆炎ウォーカー」(Strength Expansion Pack: Explosive Walker)
+   + [x] S3a: 強化拡張パック「伝説の鼓動」(Strength Expansion Pack: Legendary Heartbeat)
+   + [x] S4a: ハイクラスパック「シャイニースターV」(High Class Pack Shiny Star V)
 
 ## Deck
 + Pocket Monsters Card Game:
