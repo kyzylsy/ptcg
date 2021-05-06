@@ -24,11 +24,11 @@ A Personal Pokémon TCG Gallery
    + [x] e-Series: 第3弾拡張パック「海からの風」(Wind from the Sea)
    + [ ] e-Series: 第4弾拡張パック「裂けた大地」(Split Earth)
    + [ ] e-Series: 第5弾拡張パック「神秘なる山」(Mysterious Mountains)
-+ Pokémon Card Game ADV:
++ Pokémon Card Game ADV: ✔ Era Complete
    + [x] ADV: 第1弾拡張パック (Expansion Pack)
    + [x] ADV: 第2弾拡張パック「砂漠のきせき」(Desert of Miracles)
    + [x] ADV: 第3弾拡張パック「天空の覇者」(Rulers of the Heavens)
-   + [ ] ADV: 強化拡張パックex1「マグマVSアクア　ふたつの野望」(Magma VS Aqua: Two Ambitions)
+   + [x] ADV: 強化拡張パックex1「マグマVSアクア　ふたつの野望」(Magma VS Aqua: Two Ambitions)
    + [x] ADV: 第4弾拡張パック「とかれた封印」(Undone Seal)
 + Pokémon Card Game:
    + [ ] PCG: 拡張パック「伝説の飛翔」(Flight of Legends)
@@ -60,21 +60,21 @@ A Personal Pokémon TCG Gallery
    + [x] LEGEND1: 拡張パック「ソウルシルバーコレクション」(Soul Silver Collection)
    + [x] LEGEND2: 拡張パック「よみがえる伝説」(Reviving Legend)
    + [x] LEGEND3: 拡張パック「頂上大激突」(Clash at the Summit)
-+ Pokémon Card Game BW:
++ Pokémon Card Game BW: ✔ Era Complete
    + [x] BW1: 拡張パック「ブラックコレクション」(Black Collection)
    + [x] BW1: 拡張パック「ホワイトコレクション」(White Collection)
    + [x] BW2: 拡張パック「レッドコレクション」(Red Collection)
    + [x] BW3: 拡張パック「サイコドライブ」(Psycho Drive)
    + [x] BW3: 拡張パック「ヘイルブリザード」(Hail Blizzard)
    + [x] BW4: 拡張パック「ダークラッシュ」(Dark Rush)
-   + [ ] BW5: 拡張パック「リューズブラスト」(Dragon Blast)
-   + [ ] BW5: 拡張パック「リューノブレード」(Dragon Blade)
-   + [ ] BW6: 拡張パック「フリーズボルト」(Freeze Bolt)
-   + [ ] BW6: 拡張パック「コールドフレア」(Cold Flare)
-   + [ ] BW7: 拡張パック「プラズマゲイル」(Plasma Gale)
-   + [ ] BW8: 拡張パック「ラセンフォース」(Spiral Force)
-   + [ ] BW8: 拡張パック「ライデンナックル」(Thunder Knuckle)
-   + [ ] BW9: 拡張パック「メガロキャノン」(Megalo Cannon)
+   + [x] BW5: 拡張パック「リューズブラスト」(Dragon Blast)
+   + [x] BW5: 拡張パック「リューノブレード」(Dragon Blade)
+   + [x] BW6: 拡張パック「フリーズボルト」(Freeze Bolt)
+   + [x] BW6: 拡張パック「コールドフレア」(Cold Flare)
+   + [x] BW7: 拡張パック「プラズマゲイル」(Plasma Gale)
+   + [x] BW8: 拡張パック「ラセンフォース」(Spiral Force)
+   + [x] BW8: 拡張パック「ライデンナックル」(Thunder Knuckle)
+   + [x] BW9: 拡張パック「メガロキャノン」(Megalo Cannon)
 + Pokémon Card Game XY: :ribbon: ✔ Era Complete
    + [x] XY1: 拡張パック「コレクションX」(Collection X)
    + [x] XY1: 拡張パック「コレクションY」(Collection Y)
@@ -97,7 +97,7 @@ A Personal Pokémon TCG Gallery
    + [x] SM1M: 拡張パック「コレクションムーン」(Collection Moon)
    + [x] SM2K: 拡張パック「キミを待つ島々」(Islands Await You)
    + [x] SM2L: 拡張パック「アローラの月光」(Alolan Moonlight)
-   + [ ] SM3H: 拡張パック「闘う虹を見たか」(To Have Seen the Battle Rainbow)
+   + [x] SM3H: 拡張パック「闘う虹を見たか」(To Have Seen the Battle Rainbow)
    + [x] SM3N: 拡張パック「光を喰らう闇」(Darkness that Consumes Light)
    + [ ] SM4S: 拡張パック「覚醒の勇者」(Awakened Heroes)
    + [ ] SM4A: 拡張パック「超次元の暴獣」(Ultradimensional Beasts)
@@ -116,8 +116,10 @@ A Personal Pokémon TCG Gallery
    + [x] S2: 拡張パック「反逆クラッシュ」(Rebellion Crash)
    + [x] S3: 拡張パック「ムゲンゾーン」(Infinity Zone)
    + [x] S4: 拡張パック「仰天のボルテッカー」(Amazing Volt Tackle)
-   + [ ] S5I: 拡張パック「一撃マスター」(Single Strike Master)
-   + [ ] S5R: 拡張パック「連撃マスター」(Rapid Strike Master)
+   + [x] S5I: 拡張パック「一撃マスター」(Single Strike Master)
+   + [x] S5R: 拡張パック「連撃マスター」(Rapid Strike Master)
+   + [ ] S6H: 拡張パック「白銀のランス」(Silver Lance)
+   + [ ] S6K: 拡張パック「漆黒のガイスト」(Jet-Black Spirit)
 
 ## SubSet & Special
 + Pokémon Card Game LEGEND:
@@ -139,7 +141,7 @@ A Personal Pokémon TCG Gallery
    + [x] SM1+: 強化拡張パック「サン&ムーン」(Strength Expansion Pack Sun & Moon)
    + [x] SM2+: 強化拡張パック「新たなる試練の向こう」(Strength Expansion Pack Facing a New Trial)
    + [x] SMXY: ハイクラスパック「THE BEST OF XY」(High Class Pack The Best of XY)
-   + [ ] SM3+: 強化拡張パック「ひかる伝説」(Strength Expansion Pack Shining Legends)
+   + [x] SM3+: 強化拡張パック「ひかる伝説」(Strength Expansion Pack Shining Legends)
    + [ ] SM4+: ハイクラスパック「GXバトルブースト」(High Class Pack GX Battle Boost)
    + [x] SM5+: 強化拡張パック「ウルトラフォース」(Strength Expansion Pack Ultra Force)
    + [ ] SM6a: 強化拡張パック「ドラゴンストーム」(Strength Expansion Pack Dragon Storm)
@@ -160,6 +162,7 @@ A Personal Pokémon TCG Gallery
    + [x] S2a: 強化拡張パック「爆炎ウォーカー」(Strength Expansion Pack: Explosive Walker)
    + [x] S3a: 強化拡張パック「伝説の鼓動」(Strength Expansion Pack: Legendary Heartbeat)
    + [x] S4a: ハイクラスパック「シャイニースターV」(High Class Pack Shiny Star V)
+   + [x] S5a: 強化拡張パック「双璧のファイター」(Strength Expansion Pack: Peerless Fighters)
 
 ## Deck
 + Pocket Monsters Card Game:
