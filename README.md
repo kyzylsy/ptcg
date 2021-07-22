@@ -120,6 +120,8 @@ A Personal Pokémon TCG Gallery
    + [x] S5R: 拡張パック「連撃マスター」(Rapid Strike Master)
    + [ ] S6H: 拡張パック「白銀のランス」(Silver Lance)
    + [ ] S6K: 拡張パック「漆黒のガイスト」(Jet-Black Spirit)
+   + [ ] S7D: 拡張パック「摩天パーフェクト」(Skyscraping Perfection)
+   + [ ] S7R: 拡張パック「蒼空ストリーム」(Blue Sky Stream)
 
 ## SubSet & Special
 + Pokémon Card Game LEGEND:
@@ -163,6 +165,7 @@ A Personal Pokémon TCG Gallery
    + [x] S3a: 強化拡張パック「伝説の鼓動」(Strength Expansion Pack: Legendary Heartbeat)
    + [x] S4a: ハイクラスパック「シャイニースターV」(High Class Pack Shiny Star V)
    + [x] S5a: 強化拡張パック「双璧のファイター」(Strength Expansion Pack: Peerless Fighters)
+   + [ ] S6a: 強化拡張パック「イーブイヒーローズ」(Strength Expansion Pack: Eievui Heroes)
 
 ## Deck
 + Pocket Monsters Card Game:
@@ -238,7 +241,7 @@ A Personal Pokémon TCG Gallery
    + [x] 対戦スターターパックSP「ガブリアスVSリザードン」(Competition Starter Pack SP Gaburias VS Lizardon)
    + [ ] コレクションパック「レジギガスLV.X」(Regigigas LV.X Collection Pack)
    + [ ] コレクションパック「ミュウツーLV.X」(Mewtwo LV.X Collection Pack)
-   + [ ] コレクションパック「シェイミLV.X」(Shaymin LV.X Collection Pack)
+   + [x] コレクションパック「シェイミLV.X」(Shaymin LV.X Collection Pack)
    + [x] 構築スタンダードデッキ「アルセウスLV.X 草&炎」(Constructed Standard Deck Arceus LV.X Grass & Fire)
    + [x] 構築スタンダードデッキ「アルセウスLV.X 雷&超」(Constructed Standard Deck Arceus LV.X Lightning & Psychic)
 + Pokémon Card Game LEGEND:
@@ -323,5 +326,30 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game Sword & Shield:
    + [x] sA: スターターセットV「草/炎/水/雷/闘」(Starter Set V)
    + [x] sB: プレミアムトレーナーボックス ソード＆シールド(Sword & Shield Premium Trainer Box)
-   + [x] sP1: ザシアン＋ザマゼンタBOX(Zacian + Zamazenta Box)
+   + [x] SP1: ザシアン＋ザマゼンタBOX(Zacian + Zamazenta Box)
+   + [ ] sC: スターターセットVMAX「リザードン」(Charizard VMAX Starter Set)
+   + [ ] sC: スターターセットVMAX「オーロンゲ」(Grimmsnarl VMAX Starter Set)
+   + [ ] sD: Vスタートデッキ草「フシギバナ」(Grass Venusaur V Deck)
+   + [ ] sD: Vスタートデッキ炎「ガオガエン」(Fire Incineroar V Deck)
+   + [ ] sD: Vスタートデッキ水「ホエルオー」(Water Wailord V Deck)
+   + [ ] sD: Vスタートデッキ雷「ピカチュウ」(Lightning Pikachu V Deck)
+   + [ ] sD: Vスタートデッキ超「ミュウ」(Psychic Mew V Deck)
+   + [ ] sD: Vスタートデッキ闘「ルカリオ」(Fighting Lucario V Deck)
+   + [ ] sD: Vスタートデッキ悪「ガラルヤドラン」(Darkness Galarian Slowbro V Deck)
+   + [ ] sD: Vスタートデッキ鋼「ジュラルドン」(Metal Duraludon V Deck)
+   + [ ] sD: Vスタートデッキ無色「イーブイ」(Colorless Eevee V Deck)
+   + [ ] SP2: VMAXスペシャルセット(VMAX Special Set)
+   + [x] sEF: スターターセットVMAX「フシギバナ」(Venusaur VMAX Starter Set)
+   + [x] sEK: スターターセットVMAX「カメックス」(Blastoise VMAX Starter Set)
+   + [x] sC2: スターターセットVMAX「リザードン」(Charizard VMAX Starter Set)
+   + [x] sF: プレミアムトレーナーボックス ICHIGEKI(Single Strike Premium Trainer Box)
+   + [x] sF: プレミアムトレーナーボックス RENGEKI(Rapid Strike Premium Trainer Box)
+   + [ ] SP3: ジャンボパックセット 白銀のランス&漆黒のガイスト(Silver Lance & Jet-Black Spirit Jumbo Pack Set)
+   + [ ] SP4: VMAXスペシャルセット イーブイヒーローズ(Eevee Heroes VMAX Special Set)
+   + [ ] sGG: ハイクラスデッキ ゲンガーVMAX(Gengar VMAX High-Class Deck)
+   + [ ] sGI: ハイクラスデッキ インテレオンVMAX(Inteleon VMAX High-Class Deck)
+   + [x] sH: ファミリーポケモンカードゲーム(Family Pokémon Card Game)
+   + [ ] SP5:
+   + [ ] SP5:
+   + [ ] SP5:
 ## Promotional
