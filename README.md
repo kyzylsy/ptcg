@@ -185,7 +185,7 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game ADV:
    + [ ] 構築済みスターター「キモリデッキ」(Pre-built Starter Kimori Deck)
    + [ ] 構築済みスターター「アチャモデッキ」(Pre-built Starter Achamo Deck)
-   + [ ] 構築済みスターター「ミズゴロウデッキ」(Pre-built Starter Mizugorou Deck)
+   + [x] 構築済みスターター「ミズゴロウデッキ」(Pre-built Starter Mizugorou Deck)
    + [ ] 構築済みスターター「フライゴンデッキ」(Pre-built Starter Flygon Deck)
    + [ ] 構築済みスターター「ボーマンダデッキ」(Pre-built Starter Bohmander Deck)
    + [ ] 映画公開記念VSパック (Movie Commemoration VS Pack)
