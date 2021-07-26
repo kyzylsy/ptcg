@@ -124,6 +124,9 @@ A Personal Pokémon TCG Gallery
    + [ ] S7R: 拡張パック「蒼空ストリーム」(Blue Sky Stream)
 
 ## SubSet & Special
++ Pokémon Card Game DPt:
+   + [x] 乱戦！ポケモンスクランブル×ポケモンカードゲーム(Pokémon TCG: Rumble Game)
+   + [x] 映画公開記念ランダムパック(Movie Commemoration Random Pack)
 + Pokémon Card Game LEGEND:
    + [x] ロストリンク (Lost Link)
 + Pokémon Card Game BW:
