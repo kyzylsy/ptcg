@@ -126,7 +126,7 @@ A Personal Pokémon TCG Gallery
 ## SubSet & Special
 + Pokémon Card Game DPt:
    + [x] 乱戦！ポケモンスクランブル×ポケモンカードゲーム(Pokémon TCG: Rumble Game)
-   + [x] 映画公開記念ランダムパック(Movie Commemoration Random Pack)
+   + [x] 映画公開記念 ランダムパック2009(Movie Commemoration Random Pack)
 + Pokémon Card Game LEGEND:
    + [x] ロストリンク (Lost Link)
 + Pokémon Card Game BW:
