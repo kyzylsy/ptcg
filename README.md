@@ -126,6 +126,7 @@ A Personal Pokémon TCG Gallery
 ## SubSet & Special
 + Pokémon Card Game DP
    + [x] 10th: 映画10周年記念 プレミアムシート(10th Movie Commemoration Set)
+   + [ ] 11th: 映画公開記念 プレミアムシート(11th Movie Commemoration Set)
 + Pokémon Card Game DPt:
    + [x] 乱戦！ポケモンスクランブル×ポケモンカードゲーム(Pokémon TCG: Rumble Game)
    + [x] 映画公開記念 ランダムパック2009(Movie Commemoration Random Pack)
