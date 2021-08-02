@@ -15,7 +15,7 @@ A Personal Pokémon TCG Gallery
    + [x] Neo: 拡張パック 第3弾「めざめる伝説」(Awakening Legend)
    + [x] Neo: 拡張パック 第4弾「闇、そして光へ...」(Darkness, and to Light...)
 + Pokémon Card VS: :fire: ✔ Era Complete
-   + [x]  VS: ポケモンカード★VS (Pokémon Card★VS)
+   + [x] VS: ポケモンカード★VS (Pokémon Card★VS)
 + Pokémon Card WEB: :crown: ✔ Era Complete
    + [x] WEB: ポケモンカード★web (Pokémon Card★web)
 + Pokémon Card Game e-Series:
@@ -124,6 +124,12 @@ A Personal Pokémon TCG Gallery
    + [ ] S7R: 拡張パック「蒼空ストリーム」(Blue Sky Stream)
 
 ## SubSet & Special
++ Pokémon Card Neo:
+   + [x] ポケモンカード★neo 『ポケットモンスター 金・銀』発売記念　プレミアムファイル(Premium File)
+   + [x] ポケモンカード★neo プレミアムファイル2(Premium File 2)
+   + [x] ポケモンカード★neo プレミアムファイル3(Premium File 3)
++ Pokémon Card Game e-Series:
+   + [x] ミニマム★パック(McDonald's Pokémon-e Minimum Pack)
 + Pokémon Card Game DP
    + [x] 10th: 映画10周年記念 プレミアムシート(10th Movie Commemoration Set)
    + [ ] 11th: 映画公開記念 プレミアムシート(11th Movie Commemoration Set)
