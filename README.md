@@ -132,6 +132,7 @@ A Personal Pokémon TCG Gallery
    + [x] 映画公開記念 ランダムパック2009(Movie Commemoration Random Pack)
 + Pokémon Card Game LEGEND:
    + [x] ロストリンク (Lost Link)
+   + [x] ピカチュウ ワールド(Pikachu World Set)
 + Pokémon Card Game BW:
    + [x] DS: ドラゴンセレクション (Dragon Selection)
    + [x] SC: コンセプトパック「シャイニーコレクション」(Shiny Collection)
