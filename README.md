@@ -130,6 +130,8 @@ A Personal Pokémon TCG Gallery
    + [x] ポケモンカード★neo プレミアムファイル3(Premium File 3)
 + Pokémon Card Game e-Series:
    + [x] ミニマム★パック(McDonald's Pokémon-e Minimum Pack)
++ Pokémon Card Game:
+   + [ ] ポケパークプレミアムファイル(PokéPark Premium Files)
 + Pokémon Card Game DP
    + [x] 10th: 映画10周年記念 プレミアムシート(10th Movie Commemoration Set)
    + [ ] 11th: 映画公開記念 プレミアムシート(11th Movie Commemoration Set)
