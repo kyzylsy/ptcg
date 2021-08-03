@@ -246,7 +246,7 @@ A Personal Pokémon TCG Gallery
    + [x] 対戦スターターパック「ブーバーンVSエレキブル」(Magmortar vs Electivire Deck Kit)
    + [ ] エントリーパック'08 DX (Entry Pack '08 DX)
    + [ ] 対戦スターターパック「ヒードランVSレジギガス」(Competition Starter Pack Heatran VS Regigigas)
-   + [ ] 対戦スターターパック「ギラティナVSディアルガ」(Competition Starter Pack Giratina VS Dialga)
+   + [x] 対戦スターターパック「ギラティナVSディアルガ」(Competition Starter Pack Giratina VS Dialga)
 + Pokémon Card Game DPt:
    + [x] エントリーパック (Entry Pack)
    + [x] ギフトボックス (Gift Box)
