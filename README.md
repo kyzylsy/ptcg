@@ -236,7 +236,7 @@ A Personal Pokémon TCG Gallery
    + [x] ギフトボックス「ミュウ・ルカリオver.」(Gift Box Mew • Lucario Version)
    + [x] 構築済みスターター「大地のグラードンex」(Pre-built Starter Earth's Groudon ex)
    + [x] 構築済みスターター「大海のカイオーガex」(Pre-built Starter Ocean's Kyogre ex)
-   + [ ] 構築済みデッキ「雷震!バンギラスex」(Pre-built Deck Thunder! Bangiras ex)
+   + [x] 構築済みデッキ「雷震!バンギラスex」(Pre-built Deck Thunder! Bangiras ex)
    + [ ] 構築済みデッキ「封印!サーナイトex」(Pre-built Deck Seal! Sirnight ex)
    + [ ] 映画公開記念VSパック「蒼海のマナフィ」(Movie Commemoration VS Pack: Sea's Manaphy)
 + Pokémon Card Game DP:
