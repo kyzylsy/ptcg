@@ -122,6 +122,7 @@ A Personal Pokémon TCG Gallery
    + [ ] S6K: 拡張パック「漆黒のガイスト」(Jet-Black Spirit)
    + [ ] S7D: 拡張パック「摩天パーフェクト」(Skyscraping Perfection)
    + [ ] S7R: 拡張パック「蒼空ストリーム」(Blue Sky Stream)
+   + [ ] S8: 拡張パック「フュージョンアーツ」(Fusion Strike)
 
 ## SubSet & Special
 + Pokémon Card Neo:
@@ -159,10 +160,10 @@ A Personal Pokémon TCG Gallery
    + [x] SM2+: 強化拡張パック「新たなる試練の向こう」(Strength Expansion Pack Facing a New Trial)
    + [x] SMXY: ハイクラスパック「THE BEST OF XY」(High Class Pack The Best of XY)
    + [x] SM3+: 強化拡張パック「ひかる伝説」(Strength Expansion Pack Shining Legends)
-   + [ ] SM4+: ハイクラスパック「GXバトルブースト」(High Class Pack GX Battle Boost)
+   + [x] SM4+: ハイクラスパック「GXバトルブースト」(High Class Pack GX Battle Boost)
    + [x] SM5+: 強化拡張パック「ウルトラフォース」(Strength Expansion Pack Ultra Force)
-   + [ ] SM6a: 強化拡張パック「ドラゴンストーム」(Strength Expansion Pack Dragon Storm)
-   + [ ] SM6b: 強化拡張パック「チャンピオンロード」(Strength Expansion Pack Champion Road)
+   + [x] SM6a: 強化拡張パック「ドラゴンストーム」(Strength Expansion Pack Dragon Storm)
+   + [x] SM6b: 強化拡張パック「チャンピオンロード」(Strength Expansion Pack Champion Road)
    + [x] SM7a: 強化拡張パック「迅雷スパーク」(Strength Expansion Pack Thunderclap Spark)
    + [x] SM7b: 強化拡張パック「フェアリーライズ」(Strength Expansion Pack Fairy Rise)
    + [x] SM8a: 強化拡張パック「ダークオーダー」(Strength Expansion Pack Dark Order)
