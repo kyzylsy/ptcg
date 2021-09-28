@@ -92,7 +92,7 @@ A Personal Pokémon TCG Gallery
    + [x] XY10: 拡張パック「めざめる超王」(Awakening Psychic King)
    + [x] XY11: 拡張パック「爆熱の闘士」(Fever-Burst Fighter)
    + [x] XY11: 拡張パック「冷酷の反逆者」(Cruel Traitor)
-+ Pokémon Card Game Sun & Moon:
++ Pokémon Card Game Sun & Moon: ✔ Era Complete
    + [x] SM1S: 拡張パック「コレクションサン」(Collection Sun)
    + [x] SM1M: 拡張パック「コレクションムーン」(Collection Moon)
    + [x] SM2K: 拡張パック「キミを待つ島々」(Islands Await You)
