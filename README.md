@@ -365,7 +365,7 @@ A Personal Pokémon TCG Gallery
    + [ ] sGG: ハイクラスデッキ ゲンガーVMAX(Gengar VMAX High-Class Deck)
    + [ ] sGI: ハイクラスデッキ インテレオンVMAX(Inteleon VMAX High-Class Deck)
    + [x] sH: ファミリーポケモンカードゲーム(Family Pokémon Card Game)
-   + [ ] SP5:
-   + [ ] SP5:
-   + [ ] SP5:
+   + [ ] SP5: スペシャルカードセット ミュウツーV-UNION
+   + [ ] SP5: スペシャルカードセット ゲッコウガV-UNION
+   + [ ] SP5: スペシャルカードセット ザシアンV-UNION
 ## Promotional
