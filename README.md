@@ -344,7 +344,7 @@ A Personal Pokémon TCG Gallery
    + [x] sB: プレミアムトレーナーボックス ソード＆シールド(Sword & Shield Premium Trainer Box)
    + [x] SP1: ザシアン＋ザマゼンタBOX(Zacian + Zamazenta Box)
    + [ ] sC: スターターセットVMAX「リザードン」(Charizard VMAX Starter Set)
-   + [ ] sC: スターターセットVMAX「オーロンゲ」(Grimmsnarl VMAX Starter Set)
+   + [x] sC: スターターセットVMAX「オーロンゲ」(Grimmsnarl VMAX Starter Set)
    + [ ] sD: Vスタートデッキ草「フシギバナ」(Grass Venusaur V Deck)
    + [ ] sD: Vスタートデッキ炎「ガオガエン」(Fire Incineroar V Deck)
    + [ ] sD: Vスタートデッキ水「ホエルオー」(Water Wailord V Deck)
