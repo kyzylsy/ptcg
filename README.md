@@ -118,8 +118,8 @@ A Personal Pokémon TCG Gallery
    + [x] S4: 拡張パック「仰天のボルテッカー」(Amazing Volt Tackle)
    + [x] S5I: 拡張パック「一撃マスター」(Single Strike Master)
    + [x] S5R: 拡張パック「連撃マスター」(Rapid Strike Master)
-   + [ ] S6H: 拡張パック「白銀のランス」(Silver Lance)
-   + [ ] S6K: 拡張パック「漆黒のガイスト」(Jet-Black Spirit)
+   + [x] S6H: 拡張パック「白銀のランス」(Silver Lance)
+   + [x] S6K: 拡張パック「漆黒のガイスト」(Jet-Black Spirit)
    + [ ] S7D: 拡張パック「摩天パーフェクト」(Skyscraping Perfection)
    + [ ] S7R: 拡張パック「蒼空ストリーム」(Blue Sky Stream)
    + [ ] S8: 拡張パック「フュージョンアーツ」(Fusion Strike)
@@ -354,18 +354,18 @@ A Personal Pokémon TCG Gallery
    + [ ] sD: Vスタートデッキ悪「ガラルヤドラン」(Darkness Galarian Slowbro V Deck)
    + [ ] sD: Vスタートデッキ鋼「ジュラルドン」(Metal Duraludon V Deck)
    + [ ] sD: Vスタートデッキ無色「イーブイ」(Colorless Eevee V Deck)
-   + [ ] SP2: VMAXスペシャルセット(VMAX Special Set)
+   + [x] SP2: VMAXスペシャルセット(VMAX Special Set)
    + [x] sEF: スターターセットVMAX「フシギバナ」(Venusaur VMAX Starter Set)
    + [x] sEK: スターターセットVMAX「カメックス」(Blastoise VMAX Starter Set)
    + [x] sC2: スターターセットVMAX「リザードン」(Charizard VMAX Starter Set)
    + [x] sF: プレミアムトレーナーボックス ICHIGEKI(Single Strike Premium Trainer Box)
    + [x] sF: プレミアムトレーナーボックス RENGEKI(Rapid Strike Premium Trainer Box)
-   + [ ] SP3: ジャンボパックセット 白銀のランス&漆黒のガイスト(Silver Lance & Jet-Black Spirit Jumbo Pack Set)
-   + [ ] SP4: VMAXスペシャルセット イーブイヒーローズ(Eevee Heroes VMAX Special Set)
+   + [x] SP3: ジャンボパックセット 白銀のランス&漆黒のガイスト(Silver Lance & Jet-Black Spirit Jumbo Pack Set)
+   + [x] SP4: VMAXスペシャルセット イーブイヒーローズ(Eevee Heroes VMAX Special Set)
    + [ ] sGG: ハイクラスデッキ ゲンガーVMAX(Gengar VMAX High-Class Deck)
    + [ ] sGI: ハイクラスデッキ インテレオンVMAX(Inteleon VMAX High-Class Deck)
    + [x] sH: ファミリーポケモンカードゲーム(Family Pokémon Card Game)
-   + [ ] SP5: スペシャルカードセット ミュウツーV-UNION
-   + [ ] SP5: スペシャルカードセット ゲッコウガV-UNION
-   + [ ] SP5: スペシャルカードセット ザシアンV-UNION
+   + [x] SP5: スペシャルカードセット ミュウツーV-UNION
+   + [x] SP5: スペシャルカードセット ゲッコウガV-UNION
+   + [x] SP5: スペシャルカードセット ザシアンV-UNION
 ## Promotional
