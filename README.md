@@ -120,9 +120,10 @@ A Personal Pokémon TCG Gallery
    + [x] S5R: 拡張パック「連撃マスター」(Rapid Strike Master)
    + [x] S6H: 拡張パック「白銀のランス」(Silver Lance)
    + [x] S6K: 拡張パック「漆黒のガイスト」(Jet-Black Spirit)
-   + [ ] S7D: 拡張パック「摩天パーフェクト」(Skyscraping Perfection)
-   + [ ] S7R: 拡張パック「蒼空ストリーム」(Blue Sky Stream)
-   + [ ] S8: 拡張パック「フュージョンアーツ」(Fusion Strike)
+   + [x] S7D: 拡張パック「摩天パーフェクト」(Skyscraping Perfection)
+   + [x] S7R: 拡張パック「蒼空ストリーム」(Blue Sky Stream)
+   + [x] S8: 拡張パック「フュージョンアーツ」(Fusion Strike)
+   + [ ] S9: 拡張パック「スターバース」(Star Birth)
 
 ## SubSet & Special
 + Pokémon Card Neo:
@@ -181,7 +182,11 @@ A Personal Pokémon TCG Gallery
    + [x] S3a: 強化拡張パック「伝説の鼓動」(Strength Expansion Pack: Legendary Heartbeat)
    + [x] S4a: ハイクラスパック「シャイニースターV」(High Class Pack Shiny Star V)
    + [x] S5a: 強化拡張パック「双璧のファイター」(Strength Expansion Pack: Peerless Fighters)
-   + [ ] S6a: 強化拡張パック「イーブイヒーローズ」(Strength Expansion Pack: Eievui Heroes)
+   + [x] S6a: 強化拡張パック「イーブイヒーローズ」(Strength Expansion Pack: Eievui Heroes)
+   + [ ] S8a: 拡張パック「25th ANNIVERSARY COLLECTION」(Pokémon TCG: Celebrations)
+   + [x] S8a-P: プロモカードパック 25th ANNIVERSARY edition
+   + [ ] S8a-G: プロモカードパック 「25th ANNIVERSARY GOLDEN BOX」
+   + [ ] S8b: 
 
 ## Deck
 + Pocket Monsters Card Game:
@@ -368,4 +373,5 @@ A Personal Pokémon TCG Gallery
    + [x] SP5: スペシャルカードセット ミュウツーV-UNION
    + [x] SP5: スペシャルカードセット ゲッコウガV-UNION
    + [x] SP5: スペシャルカードセット ザシアンV-UNION
-## Promotional
+   + [ ] sI: スタートデッキ100
+   + [ ] sJ: 
