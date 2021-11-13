@@ -374,4 +374,4 @@ A Personal Pokémon TCG Gallery
    + [x] SP5: スペシャルカードセット ゲッコウガV-UNION
    + [x] SP5: スペシャルカードセット ザシアンV-UNION
    + [ ] sI: スタートデッキ100
-   + [ ] sJ: 
+   + [x] sJ: スペシャルデッキセット ザシアン・ザマゼンタ vs ムゲンダイナ
