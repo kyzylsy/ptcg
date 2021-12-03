@@ -22,7 +22,7 @@ A Personal Pokémon TCG Gallery
    + [x] e-Series: 第1弾基本拡張パック (Base Expansion Pack)
    + [x] e-Series: 第2弾拡張パック「地図にない町」(The Town on No Map)
    + [x] e-Series: 第3弾拡張パック「海からの風」(Wind from the Sea)
-   + [ ] e-Series: 第4弾拡張パック「裂けた大地」(Split Earth)
+   + [■] e-Series: 第4弾拡張パック「裂けた大地」(Split Earth)
    + [x] e-Series: 第5弾拡張パック「神秘なる山」(Mysterious Mountains)
 + Pokémon Card Game ADV: ✔ Era Complete
    + [x] ADV: 第1弾拡張パック (Expansion Pack)
@@ -31,16 +31,16 @@ A Personal Pokémon TCG Gallery
    + [x] ADV: 強化拡張パックex1「マグマVSアクア　ふたつの野望」(Magma VS Aqua: Two Ambitions)
    + [x] ADV: 第4弾拡張パック「とかれた封印」(Undone Seal)
 + Pokémon Card Game:
-   + [x] PCG: 拡張パック「伝説の飛翔」(Flight of Legends)
+   + [■] PCG: 拡張パック「伝説の飛翔」(Flight of Legends)
    + [x] PCG: 拡張パック「蒼空の激突」(Clash of the Blue Sky)
    + [x] PCG: 拡張パック「ロケット団の逆襲」(Rocket Gang Strikes Back)
-   + [x] PCG: 拡張パック「金の空、銀の海」(Golden Sky, Silvery Ocean)
+   + [■] PCG: 拡張パック「金の空、銀の海」(Golden Sky, Silvery Ocean)
    + [x] PCG: 拡張パック「まぼろしの森」(Mirage Forest)
    + [x] PCG: 拡張パック「ホロンの研究塔」(Holon Research Tower)
    + [x] PCG: 拡張パック「ホロンの幻影」(Holon Phantoms)
    + [ ] PCG: 拡張パック「きせきの結晶」(Miracle Crystal)
    + [x] PCG: 拡張パック「さいはての攻防」(Offence and Defence to the Extreme Limits)
-   + [x] PCG: ワールドチャンピオンズパック (World Championship Pack)
+   + [■] PCG: ワールドチャンピオンズパック (World Championship Pack)
 + Pokémon Card Game DP: ✔ Era Complete
    + [x] DP1: 拡張パック「時空の創造」(Space-Time Creation)
    + [x] DP2: 拡張パック「湖の秘密」(Mystery of the Lakes)
@@ -53,7 +53,7 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game DPt: ✔ Era Complete
    + [x] DPt1: 拡張パック「ギンガの覇道」(Galaxy's Conquest)
    + [x] DPt2: 拡張パック「時の果ての絆」(Bonds to the End of Time)
-   + [x] DPt3: 拡張パック「フロンティアの鼓動」(Beat of the Frontier)
+   + [■] DPt3: 拡張パック「フロンティアの鼓動」(Beat of the Frontier)
    + [x] DPt4: 拡張パック「アルセウス光臨」(The Dawn of Arceus)
 + Pokémon Card Game LEGEND: :moneybag: ✔ Era Complete
    + [x] LEGEND1: 拡張パック「ハートゴールドコレクション」(Heart Gold Collection)
@@ -183,10 +183,10 @@ A Personal Pokémon TCG Gallery
    + [x] S4a: ハイクラスパック「シャイニースターV」(High Class Pack Shiny Star V)
    + [x] S5a: 強化拡張パック「双璧のファイター」(Strength Expansion Pack: Peerless Fighters)
    + [x] S6a: 強化拡張パック「イーブイヒーローズ」(Strength Expansion Pack: Eievui Heroes)
-   + [ ] S8a: 拡張パック「25th ANNIVERSARY COLLECTION」(Pokémon TCG: Celebrations)
+   + [■] S8a: 拡張パック「25th ANNIVERSARY COLLECTION」(Pokémon TCG: Celebrations)
    + [x] S8a-P: プロモカードパック 25th ANNIVERSARY edition
    + [ ] S8a-G: プロモカードパック 「25th ANNIVERSARY GOLDEN BOX」
-   + [ ] S8b: 
+   + [ ] S8b: ハイクラスパック「VMAXクライマックス」(High Class Pack VMAX Climax)
 
 ## Deck
 + Pocket Monsters Card Game:
@@ -367,7 +367,7 @@ A Personal Pokémon TCG Gallery
    + [x] sF: プレミアムトレーナーボックス RENGEKI(Rapid Strike Premium Trainer Box)
    + [x] SP3: ジャンボパックセット 白銀のランス&漆黒のガイスト(Silver Lance & Jet-Black Spirit Jumbo Pack Set)
    + [x] SP4: VMAXスペシャルセット イーブイヒーローズ(Eevee Heroes VMAX Special Set)
-   + [ ] sGG: ハイクラスデッキ ゲンガーVMAX(Gengar VMAX High-Class Deck)
+   + [■] sGG: ハイクラスデッキ ゲンガーVMAX(Gengar VMAX High-Class Deck)
    + [ ] sGI: ハイクラスデッキ インテレオンVMAX(Inteleon VMAX High-Class Deck)
    + [x] sH: ファミリーポケモンカードゲーム(Family Pokémon Card Game)
    + [x] SP5: スペシャルカードセット ミュウツーV-UNION
