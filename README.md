@@ -213,7 +213,7 @@ A Personal Pokémon TCG Gallery
    + [x] 構築済みデッキ「マグマ団ハーフデッキW」(Pre-built Deck Magma Gang Half Deck W)
    + [ ] 構築済みデッキ「アクア団ハーフデッキW」(Pre-built Deck Aqua Gang Half Deck W)
    + [x] ギフトボックス (Gift Box)
-   + [ ] 構築済みスターター「メタグロスデッキ」(Pre-built Starter Metagross Deck)
+   + [x] 構築済みスターター「メタグロスデッキ」(Pre-built Starter Metagross Deck)
 + Pokémon Card Game:
    + [ ] ランダム構築スターター「フシギバナ★草」(Random Constructed Starter Fushigibana ★Grass)
    + [ ] ランダム構築スターター「リザードン★炎」(Random Constructed Starter Lizardon ★Fire)
@@ -244,7 +244,7 @@ A Personal Pokémon TCG Gallery
    + [x] 構築済みスターター「大海のカイオーガex」(Pre-built Starter Ocean's Kyogre ex)
    + [x] 構築済みデッキ「雷震!バンギラスex」(Pre-built Deck Thunder! Bangiras ex)
    + [ ] 構築済みデッキ「封印!サーナイトex」(Pre-built Deck Seal! Sirnight ex)
-   + [ ] 映画公開記念VSパック「蒼海のマナフィ」(Movie Commemoration VS Pack: Sea's Manaphy)
+   + [x] 映画公開記念VSパック「蒼海のマナフィ」(Movie Commemoration VS Pack: Sea's Manaphy)
 + Pokémon Card Game DP:
    + [x] エントリーパック (Entry Pack)
    + [x] 構築ハーフデッキ「守りのトリデプス」(Constructed Half Deck Trideps the Defender)
@@ -276,6 +276,8 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game BW:
    + [x] CS1: コレクションシート「旅立ちの仲間」(Collection Sheet Journey Partners)
    + [ ] はじめてセット (Beginning Set)
+   + [x] はじめてセットfor ガール (Beginning Set For Girl)
+   + [x] はじめてセットDX ピカチュウver.
    + [ ] バトル強化デッキ「ビリジオン」(Battle Strength Deck Virizion)
    + [ ] バトル強化デッキ「テラキオン」(Battle Strength Deck Terrakion)
    + [ ] バトル強化デッキ「コバルオン」(Battle Strength Deck Cobalion)
