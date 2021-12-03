@@ -155,7 +155,7 @@ A Personal Pokémon TCG Gallery
    + [x] 20th: ポケットモンスターカードゲーム「スターターパック」(Starter Pack)
    + [x] CP4: プレミアムチャンピオンパック「EX×M×BREAK」(Premium Champion Pack: EX×M×BREAK)
    + [x] CP5: 幻・伝説ドリームキラコレクション (Mythical & Legendary Dream Shine Collection)
-   + [x] CP6: 拡張パック「20th Anniversary」(Expansion Pack 20th Anniversary)
+   + [■] CP6: 拡張パック「20th Anniversary」(Expansion Pack 20th Anniversary)
 + Pokémon Card Game Sun & Moon:
    + [x] SM1+: 強化拡張パック「サン&ムーン」(Strength Expansion Pack Sun & Moon)
    + [x] SM2+: 強化拡張パック「新たなる試練の向こう」(Strength Expansion Pack Facing a New Trial)
