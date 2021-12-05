@@ -319,7 +319,7 @@ A Personal Pokémon TCG Gallery
    + [ ] SMA: スターターセット炎「ガオガエンGX」(Incineroar-GX Starter Set Fire)
    + [ ] SMA: スターターセット水「アシレーヌGX」(Primarina-GX Starter Set Water)
    + [ ] SMB: プレミアムトレーナーボックス (Premium Trainer Box)
-   + [ ] SMP1: イワンコ全力デッキ (Rockruff Full Power Deck)
+   + [■] SMP1: イワンコ全力デッキ (Rockruff Full Power Deck)
    + [ ] トゲデマルデッキ (Togedemaru Deck)
    + [ ] バクガメスデッキ (Turtonator Deck)
    + [ ] SMC: スターターセット改造「カプ・ブルルGX」(Tapu Bulu-GX Enhanced Starter Set)
@@ -353,7 +353,7 @@ A Personal Pokémon TCG Gallery
    + [x] sA: スターターセットV「草/炎/水/雷/闘」(Starter Set V)
    + [x] sB: プレミアムトレーナーボックス ソード＆シールド(Sword & Shield Premium Trainer Box)
    + [x] SP1: ザシアン＋ザマゼンタBOX(Zacian + Zamazenta Box)
-   + [ ] sC: スターターセットVMAX「リザードン」(Charizard VMAX Starter Set)
+   + [■] sC: スターターセットVMAX「リザードン」(Charizard VMAX Starter Set)
    + [x] sC: スターターセットVMAX「オーロンゲ」(Grimmsnarl VMAX Starter Set)
    + [x] sD: Vスタートデッキ草「フシギバナ」(Grass Venusaur V Deck)
    + [x] sD: Vスタートデッキ炎「ガオガエン」(Fire Incineroar V Deck)
@@ -373,7 +373,7 @@ A Personal Pokémon TCG Gallery
    + [x] SP3: ジャンボパックセット 白銀のランス&漆黒のガイスト(Silver Lance & Jet-Black Spirit Jumbo Pack Set)
    + [x] SP4: VMAXスペシャルセット イーブイヒーローズ(Eevee Heroes VMAX Special Set)
    + [■] sGG: ハイクラスデッキ ゲンガーVMAX(Gengar VMAX High-Class Deck)
-   + [ ] sGI: ハイクラスデッキ インテレオンVMAX(Inteleon VMAX High-Class Deck)
+   + [■] sGI: ハイクラスデッキ インテレオンVMAX(Inteleon VMAX High-Class Deck)
    + [x] sH: ファミリーポケモンカードゲーム(Family Pokémon Card Game)
    + [x] SP5: スペシャルカードセット ミュウツーV-UNION
    + [x] SP5: スペシャルカードセット ゲッコウガV-UNION
