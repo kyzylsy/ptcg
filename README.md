@@ -211,7 +211,7 @@ A Personal Pokémon TCG Gallery
    + [x] 構築済みスターター「ボーマンダデッキ」(Salamence Constructed Starter Deck)
    + [x] 映画公開記念VSパック (Movie Commemoration VS Pack)
    + [x] 構築済みデッキ「マグマ団ハーフデッキW」(Pre-built Deck Magma Gang Half Deck W)
-   + [ ] 構築済みデッキ「アクア団ハーフデッキW」(Pre-built Deck Aqua Gang Half Deck W)
+   + [x] 構築済みデッキ「アクア団ハーフデッキW」(Pre-built Deck Aqua Gang Half Deck W)
    + [x] ギフトボックス (Gift Box)
    + [x] 構築済みスターター「メタグロスデッキ」(Pre-built Starter Metagross Deck)
 + Pokémon Card Game:
