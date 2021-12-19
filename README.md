@@ -186,7 +186,7 @@ A Personal Pokémon TCG Gallery
    + [■] S8a: 拡張パック「25th ANNIVERSARY COLLECTION」(Pokémon TCG: Celebrations)
    + [x] S8a-P: プロモカードパック 25th ANNIVERSARY edition
    + [ ] S8a-G: プロモカードパック 「25th ANNIVERSARY GOLDEN BOX」
-   + [ ] S8b: ハイクラスパック「VMAXクライマックス」(High Class Pack VMAX Climax)
+   + [■] S8b: ハイクラスパック「VMAXクライマックス」(High Class Pack VMAX Climax)
 
 ## Deck
 + Pocket Monsters Card Game:
@@ -372,11 +372,11 @@ A Personal Pokémon TCG Gallery
    + [x] sF: プレミアムトレーナーボックス RENGEKI(Rapid Strike Premium Trainer Box)
    + [x] SP3: ジャンボパックセット 白銀のランス&漆黒のガイスト(Silver Lance & Jet-Black Spirit Jumbo Pack Set)
    + [x] SP4: VMAXスペシャルセット イーブイヒーローズ(Eevee Heroes VMAX Special Set)
-   + [■] sGG: ハイクラスデッキ ゲンガーVMAX(Gengar VMAX High-Class Deck)
-   + [■] sGI: ハイクラスデッキ インテレオンVMAX(Inteleon VMAX High-Class Deck)
+   + [x] sGG: ハイクラスデッキ ゲンガーVMAX(Gengar VMAX High-Class Deck)
+   + [x] sGI: ハイクラスデッキ インテレオンVMAX(Inteleon VMAX High-Class Deck)
    + [x] sH: ファミリーポケモンカードゲーム(Family Pokémon Card Game)
    + [x] SP5: スペシャルカードセット ミュウツーV-UNION
    + [x] SP5: スペシャルカードセット ゲッコウガV-UNION
    + [x] SP5: スペシャルカードセット ザシアンV-UNION
-   + [ ] sI: スタートデッキ100
+   + [■] sI: スタートデッキ100
    + [x] sJ: スペシャルデッキセット ザシアン・ザマゼンタ vs ムゲンダイナ
