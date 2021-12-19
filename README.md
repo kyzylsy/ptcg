@@ -322,7 +322,7 @@ A Personal Pokémon TCG Gallery
    + [■] SMP1: イワンコ全力デッキ (Rockruff Full Power Deck)
    + [ ] トゲデマルデッキ (Togedemaru Deck)
    + [ ] バクガメスデッキ (Turtonator Deck)
-   + [ ] SMC: スターターセット改造「カプ・ブルルGX」(Tapu Bulu-GX Enhanced Starter Set)
+   + [x] SMC: スターターセット改造「カプ・ブルルGX」(Tapu Bulu-GX Enhanced Starter Set)
    + [ ] SMD: 30枚デッキ対戦セット「サトシVSロケット団」(30-Card Deck Competition Set Ash vs Team Rocket)
    + [x] SME: スターターセット伝説「ソルガレオGX ルナアーラGX」(Solgaleo-GX & Lunala-GX Legendary Starter Set)
    + [ ] SMF: プレミアムトレーナーボックス「ウルトラサン・ウルトラムーン」(Ultra Sun & Ultra Moon Premium Trainer Box)
