@@ -183,7 +183,7 @@ A Personal Pokémon TCG Gallery
    + [x] S4a: ハイクラスパック「シャイニースターV」(High Class Pack Shiny Star V)
    + [x] S5a: 強化拡張パック「双璧のファイター」(Strength Expansion Pack: Peerless Fighters)
    + [x] S6a: 強化拡張パック「イーブイヒーローズ」(Strength Expansion Pack: Eievui Heroes)
-   + [■] S8a: 拡張パック「25th ANNIVERSARY COLLECTION」(Pokémon TCG: Celebrations)
+   + [x] S8a: 拡張パック「25th ANNIVERSARY COLLECTION」(Pokémon TCG: Celebrations)
    + [x] S8a-P: プロモカードパック 25th ANNIVERSARY edition
    + [ ] S8a-G: プロモカードパック 「25th ANNIVERSARY GOLDEN BOX」
    + [■] S8b: ハイクラスパック「VMAXクライマックス」(High Class Pack VMAX Climax)
