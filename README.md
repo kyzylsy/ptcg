@@ -277,11 +277,11 @@ A Personal Pokémon TCG Gallery
    + [x] CS1: コレクションシート「旅立ちの仲間」(Collection Sheet Journey Partners)
    + [ ] はじめてセット (Beginning Set)
    + [x] はじめてセットfor ガール (Beginning Set For Girl)
-   + [x] はじめてセットDX ピカチュウver.
-   + [ ] バトル強化デッキ「ビリジオン」(Battle Strength Deck Virizion)
-   + [ ] バトル強化デッキ「テラキオン」(Battle Strength Deck Terrakion)
-   + [ ] バトル強化デッキ「コバルオン」(Battle Strength Deck Cobalion)
-   + [x] バトルテーマデッキ「ビクティニ」(Battle Theme Deck Victini)
+   + [x] HSP: はじめてセットDX ピカチュウver.
+   + [ ] BK: バトル強化デッキ「ビリジオン」(Battle Strength Deck Virizion)
+   + [ ] BK: バトル強化デッキ「テラキオン」(Battle Strength Deck Terrakion)
+   + [ ] BK: バトル強化デッキ「コバルオン」(Battle Strength Deck Cobalion)
+   + [x] BTV: バトルテーマデッキ「ビクティニ」(Battle Theme Deck Victini)
    + [ ] バトル強化デッキ60「レシラムＥＸ」(Battle Strength Deck ReshiramEX)
    + [ ] バトル強化デッキ60「ゼクロムＥＸ」(Battle Strength Deck ZekromEX)
    + [ ] バトルギフトセット「ボルトロスＶＳトルネロス」(Battle Gift Set Thundurus vs Tornadus)
