@@ -185,7 +185,7 @@ A Personal Pokémon TCG Gallery
    + [x] S6a: 強化拡張パック「イーブイヒーローズ」(Strength Expansion Pack: Eievui Heroes)
    + [x] S8a: 拡張パック「25th ANNIVERSARY COLLECTION」(Pokémon TCG: Celebrations)
    + [x] S8a-P: プロモカードパック 25th ANNIVERSARY edition
-   + [ ] S8a-G: プロモカードパック 「25th ANNIVERSARY GOLDEN BOX」
+   + [x] S8a-G: プロモカードパック 「25th ANNIVERSARY GOLDEN BOX」
    + [■] S8b: ハイクラスパック「VMAXクライマックス」(High Class Pack VMAX Climax)
 
 ## Deck
