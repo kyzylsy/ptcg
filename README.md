@@ -353,7 +353,7 @@ A Personal Pokémon TCG Gallery
    + [x] sA: スターターセットV「草/炎/水/雷/闘」(Starter Set V)
    + [x] sB: プレミアムトレーナーボックス ソード＆シールド(Sword & Shield Premium Trainer Box)
    + [x] SP1: ザシアン＋ザマゼンタBOX(Zacian + Zamazenta Box)
-   + [■] sC: スターターセットVMAX「リザードン」(Charizard VMAX Starter Set)
+   + [x] sC: スターターセットVMAX「リザードン」(Charizard VMAX Starter Set)
    + [x] sC: スターターセットVMAX「オーロンゲ」(Grimmsnarl VMAX Starter Set)
    + [x] sD: Vスタートデッキ草「フシギバナ」(Grass Venusaur V Deck)
    + [x] sD: Vスタートデッキ炎「ガオガエン」(Fire Incineroar V Deck)
@@ -380,3 +380,4 @@ A Personal Pokémon TCG Gallery
    + [x] SP5: スペシャルカードセット ザシアンV-UNION
    + [■] sI: スタートデッキ100
    + [x] sJ: スペシャルデッキセット ザシアン・ザマゼンタ vs ムゲンダイナ
+   + [x] sK: プレミアムトレーナーボックス VSTAR
