@@ -123,7 +123,7 @@ A Personal Pokémon TCG Gallery
    + [x] S7D: 拡張パック「摩天パーフェクト」(Skyscraping Perfection)
    + [x] S7R: 拡張パック「蒼空ストリーム」(Blue Sky Stream)
    + [x] S8: 拡張パック「フュージョンアーツ」(Fusion Strike)
-   + [ ] S9: 拡張パック「スターバース」(Star Birth)
+   + [x] S9: 拡張パック「スターバース」(Star Birth)
 
 ## SubSet & Special
 + Pokémon Card Neo:
