@@ -286,7 +286,7 @@ A Personal Pokémon TCG Gallery
    + [x] バトル強化デッキ60「ゼクロムＥＸ」(Battle Strength Deck ZekromEX)
    + [x] バトルギフトセット「ボルトロスＶＳトルネロス」(Battle Gift Set Thundurus vs Tornadus)
    + [x] サザンドラデッキ30 (Sazandora Half Deck)
-   + [ ] ガブリアスデッキ30 (Gaburias Half Deck)
+   + [x] ガブリアスデッキ30 (Gaburias Half Deck)
    + [ ] バトル強化デッキ30「ケルディオ」(Battle Strength Deck Keldeo)
    + [ ] はじめてセット 全国図鑑版セット (National Pokédex Beginning Set)
    + [ ] プラズマ団パワードデッキ30 (Plasma Gang's Powered Half Deck)
