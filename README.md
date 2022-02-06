@@ -136,7 +136,7 @@ A Personal Pokémon TCG Gallery
    + [ ] ポケパークプレミアムファイル(PokéPark Premium Files)
 + Pokémon Card Game DP
    + [x] 10th: 映画10周年記念 プレミアムシート(10th Movie Commemoration Set)
-   + [ ] 11th: 映画公開記念 プレミアムシート(11th Movie Commemoration Set)
+   + [x] 11th: 映画公開記念 プレミアムシート(11th Movie Commemoration Set)
 + Pokémon Card Game DPt:
    + [x] 乱戦！ポケモンスクランブル×ポケモンカードゲーム(Pokémon TCG: Rumble Game)
    + [x] 映画公開記念 ランダムパック2009(Movie Commemoration Random Pack)
@@ -290,7 +290,7 @@ A Personal Pokémon TCG Gallery
    + [x] GBR: ガブリアスデッキ30 (Gaburias Half Deck)
    + [ ] KLD: バトル強化デッキ30「ケルディオ」(Battle Strength Deck Keldeo)
    + [ ] HSZ: はじめてセット 全国図鑑版 (National Pokédex Beginning Set)
-   + [ ] PPD: プラズマ団パワードデッキ30 (Plasma Gang's Powered Half Deck)
+   + [x] PPD: プラズマ団パワードデッキ30 (Plasma Gang's Powered Half Deck)
    + [ ] MDB: マスターデッキビルドBOX EX (Master Deck Build Box EX)
    + [ ] BKB: バトル強化デッキ60「ブラックキュレムＥＸ」(Battle Strength Deck Black Kyurem EX)
    + [ ] BKW: バトル強化デッキ60「ホワイトキュレムＥＸ」(Battle Strength Deck White Kyurem EX)
