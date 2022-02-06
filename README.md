@@ -296,7 +296,7 @@ A Personal Pokémon TCG Gallery
    + [ ] BKW: バトル強化デッキ60「ホワイトキュレムＥＸ」(Battle Strength Deck White Kyurem EX)
    + [ ] PBG: プラズマ団バトルギフトセット (Plasma Gang Battle Gift Set)
    + [ ] WAK: みんなのWAKUWAKUバトル (Everyone's Exciting Battle)
-   + [ ] K+K: 最強爆流コンボデッキ60「カメックス＋キュレムEX」(Combo Deck Blastoise + Kyurem-EX)
+   + [x] K+K: 最強爆流コンボデッキ60「カメックス＋キュレムEX」(Combo Deck Blastoise + Kyurem-EX)
    + [ ] MG: 30枚デッキ対戦set「ミュウツーVSゲノセクト」(30-Card Deck Competition Set Mewtwo VS Genesect)
 + Pokémon Card Game XY:
    + [x] X30: ゼルネアスデッキ30 (Xerneas Half Deck)
