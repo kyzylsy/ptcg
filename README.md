@@ -289,7 +289,7 @@ A Personal Pokémon TCG Gallery
    + [x] SZD: サザンドラデッキ30 (Sazandora Half Deck)
    + [x] GBR: ガブリアスデッキ30 (Gaburias Half Deck)
    + [ ] KLD: バトル強化デッキ30「ケルディオ」(Battle Strength Deck Keldeo)
-   + [ ] HSZ: はじめてセット 全国図鑑版セット (National Pokédex Beginning Set)
+   + [ ] HSZ: はじめてセット 全国図鑑版 (National Pokédex Beginning Set)
    + [ ] PPD: プラズマ団パワードデッキ30 (Plasma Gang's Powered Half Deck)
    + [ ] MDB: マスターデッキビルドBOX EX (Master Deck Build Box EX)
    + [ ] BKB: バトル強化デッキ60「ブラックキュレムＥＸ」(Battle Strength Deck Black Kyurem EX)
