@@ -297,7 +297,7 @@ A Personal Pokémon TCG Gallery
    + [ ] PBG: プラズマ団バトルギフトセット (Plasma Gang Battle Gift Set)
    + [ ] WAK: みんなのWAKUWAKUバトル (Everyone's Exciting Battle)
    + [x] K+K: 最強爆流コンボデッキ60「カメックス＋キュレムEX」(Combo Deck Blastoise + Kyurem-EX)
-   + [ ] MG: 30枚デッキ対戦set「ミュウツーVSゲノセクト」(30-Card Deck Competition Set Mewtwo VS Genesect)
+   + [x] MG: 30枚デッキ対戦set「ミュウツーVSゲノセクト」(30-Card Deck Competition Set Mewtwo VS Genesect)
 + Pokémon Card Game XY:
    + [x] X30: ゼルネアスデッキ30 (Xerneas Half Deck)
    + [x] Y30: イベルタルデッキ30 (Yveltal Half Deck)
@@ -321,8 +321,8 @@ A Personal Pokémon TCG Gallery
    + [ ] SMA: スターターセット水「アシレーヌGX」(Primarina-GX Starter Set Water)
    + [ ] SMB: プレミアムトレーナーボックス (Premium Trainer Box)
    + [■] SMP1: イワンコ全力デッキ (Rockruff Full Power Deck)
-   + [ ] トゲデマルデッキ (Togedemaru Deck)
-   + [ ] バクガメスデッキ (Turtonator Deck)
+   + [x] トゲデマルデッキ (Togedemaru Deck)
+   + [x] バクガメスデッキ (Turtonator Deck)
    + [x] SMC: スターターセット改造「カプ・ブルルGX」(Tapu Bulu-GX Enhanced Starter Set)
    + [ ] SMD: 30枚デッキ対戦セット「サトシVSロケット団」(30-Card Deck Competition Set Ash vs Team Rocket)
    + [x] SME: スターターセット伝説「ソルガレオGX ルナアーラGX」(Solgaleo-GX & Lunala-GX Legendary Starter Set)
@@ -344,7 +344,7 @@ A Personal Pokémon TCG Gallery
    + [x] SMJ: プレミアムトレーナーボックス「TAG TEAM GX」(Tag Team GX Premium Trainer Box)
    + [ ] SMK: トレーナーバトルデッキ「ニビシティジムのタケシ」(Trainer Battle Deck Takeshi of Nibi City Gym)
    + [ ] SMK: トレーナーバトルデッキ「ハナダシティジムのカスミ」(Trainer Battle Deck Kasumi of Hanada City Gym)
-   + [ ] SMN: デッキビルドBOX「TAG TEAM GX」(Tag Team GX Deck Build Box)
+   + [x] SMN: デッキビルドBOX「TAG TEAM GX」(Tag Team GX Deck Build Box)
    + [ ] SML: ファミリーポケモンカードゲーム (Family Pokémon Card Game)
    + [x] SMP2: ムービースペシャルパック「名探偵ピカチュウ」(Movie Special Pack Great Detective Pikachu)
    + [ ] SMM: スターターセット TAG TEAM GX「エーフィ&デオキシスGX」
