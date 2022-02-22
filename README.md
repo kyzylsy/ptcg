@@ -383,3 +383,4 @@ A Personal Pokémon TCG Gallery
    + [■] sI: スタートデッキ100
    + [x] sJ: スペシャルデッキセット ザシアン・ザマゼンタ vs ムゲンダイナ
    + [x] sK: プレミアムトレーナーボックス VSTAR
+   + [ ] sL: スターターセットVSTAR(VSTAR Starter Sets)
