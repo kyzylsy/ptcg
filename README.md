@@ -124,6 +124,8 @@ A Personal Pokémon TCG Gallery
    + [x] S7R: 拡張パック「蒼空ストリーム」(Blue Sky Stream)
    + [x] S8: 拡張パック「フュージョンアーツ」(Fusion Strike)
    + [x] S9: 拡張パック「スターバース」(Star Birth)
+   + [ ] S10D: 拡張パック「タイムゲイザー」(Time Gazer)
+   + [ ] S10P: 拡張パック「スペースジャグラー」(Space Juggler)
 
 ## SubSet & Special
 + Pokémon Card Neo:
@@ -186,7 +188,7 @@ A Personal Pokémon TCG Gallery
    + [x] S8a: 拡張パック「25th ANNIVERSARY COLLECTION」(Pokémon TCG: Celebrations)
    + [x] S8a-P: プロモカードパック 25th ANNIVERSARY edition
    + [x] S8a-G: プロモカードパック 「25th ANNIVERSARY GOLDEN BOX」
-   + [■] S8b: ハイクラスパック「VMAXクライマックス」(High Class Pack VMAX Climax)
+   + [x] S8b: ハイクラスパック「VMAXクライマックス」(High Class Pack VMAX Climax)
    + [ ] S9a: 強化拡張パック「バトルリージョン」(Strength Expansion Pack: Battle Region)
 
 ## Deck
@@ -380,7 +382,7 @@ A Personal Pokémon TCG Gallery
    + [x] SP5: スペシャルカードセット ミュウツーV-UNION
    + [x] SP5: スペシャルカードセット ゲッコウガV-UNION
    + [x] SP5: スペシャルカードセット ザシアンV-UNION
-   + [■] sI: スタートデッキ100
+   + [x] sI: スタートデッキ100
    + [x] sJ: スペシャルデッキセット ザシアン・ザマゼンタ vs ムゲンダイナ
    + [x] sK: プレミアムトレーナーボックス VSTAR
    + [x] sL: スターターセットVSTAR(VSTAR Starter Sets)
