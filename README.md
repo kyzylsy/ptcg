@@ -294,7 +294,7 @@ A Personal Pokémon TCG Gallery
    + [ ] KLD: バトル強化デッキ30「ケルディオ」(Battle Strength Deck Keldeo)
    + [ ] HSZ: はじめてセット 全国図鑑版 (National Pokédex Beginning Set)
    + [x] PPD: プラズマ団パワードデッキ30 (Plasma Gang's Powered Half Deck)
-   + [ ] MDB: マスターデッキビルドBOX EX (Master Deck Build Box EX)
+   + [x] MDB: マスターデッキビルドBOX EX (Master Deck Build Box EX)
    + [ ] BKB: バトル強化デッキ60「ブラックキュレムＥＸ」(Battle Strength Deck Black Kyurem EX)
    + [ ] BKW: バトル強化デッキ60「ホワイトキュレムＥＸ」(Battle Strength Deck White Kyurem EX)
    + [ ] PBG: プラズマ団バトルギフトセット (Plasma Gang Battle Gift Set)
