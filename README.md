@@ -38,7 +38,7 @@ A Personal Pokémon TCG Gallery
    + [x] PCG: 拡張パック「まぼろしの森」(Mirage Forest)
    + [x] PCG: 拡張パック「ホロンの研究塔」(Holon Research Tower)
    + [x] PCG: 拡張パック「ホロンの幻影」(Holon Phantoms)
-   + [■] PCG: 拡張パック「きせきの結晶」(Miracle Crystal)
+   + [x] PCG: 拡張パック「きせきの結晶」(Miracle Crystal)
    + [x] PCG: 拡張パック「さいはての攻防」(Offence and Defence to the Extreme Limits)
    + [■] PCG: ワールドチャンピオンズパック (World Championship Pack)
 + Pokémon Card Game DP: ✔ Era Complete
