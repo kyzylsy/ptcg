@@ -31,7 +31,7 @@ A Personal Pokémon TCG Gallery
    + [x] ADV: 強化拡張パックex1「マグマVSアクア　ふたつの野望」(Magma VS Aqua: Two Ambitions)
    + [x] ADV: 第4弾拡張パック「とかれた封印」(Undone Seal)
 + Pokémon Card Game:
-   + [■] PCG: 拡張パック「伝説の飛翔」(Flight of Legends)
+   + [x] PCG: 拡張パック「伝説の飛翔」(Flight of Legends)
    + [x] PCG: 拡張パック「蒼空の激突」(Clash of the Blue Sky)
    + [x] PCG: 拡張パック「ロケット団の逆襲」(Rocket Gang Strikes Back)
    + [■] PCG: 拡張パック「金の空、銀の海」(Golden Sky, Silvery Ocean)
