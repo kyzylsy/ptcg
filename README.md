@@ -319,9 +319,9 @@ A Personal Pokémon TCG Gallery
    + [x] XYH: メガバトルデッキ60「MメガタブンネEX」(Mega Battle Deck 60 MTabunneEX)
 + Pokémon Card Game Sun & Moon:
    + [x] SM0: ピカチュウと新しい仲間たち (Pikachu's New Friends Collection)
-   + [x] SMA: スターターセット草「ジュナイパーGX」(Decidueye-GX Starter Set Grass)
-   + [x] SMA: スターターセット炎「ガオガエンGX」(Incineroar-GX Starter Set Fire)
-   + [x] SMA: スターターセット水「アシレーヌGX」(Primarina-GX Starter Set Water)
+   + [ ] SMA: スターターセット草「ジュナイパーGX」(Decidueye-GX Starter Set Grass)
+   + [ ] SMA: スターターセット炎「ガオガエンGX」(Incineroar-GX Starter Set Fire)
+   + [ ] SMA: スターターセット水「アシレーヌGX」(Primarina-GX Starter Set Water)
    + [ ] SMB: プレミアムトレーナーボックス (Premium Trainer Box)
    + [x] SMP1: イワンコ全力デッキ (Rockruff Full Power Deck)
    + [x] トゲデマルデッキ (Togedemaru Deck)
