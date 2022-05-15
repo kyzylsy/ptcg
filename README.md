@@ -191,6 +191,7 @@ A Personal Pokémon TCG Gallery
    + [x] S8b: ハイクラスパック「VMAXクライマックス」(High Class Pack VMAX Climax)
    + [x] S9a: 強化拡張パック「バトルリージョン」(Strength Expansion Pack: Battle Region)
    + [ ] S10a: 強化拡張パック「ダークファンタズマ」(Strength Expansion Pack: Dark Phantasma)
+   + [ ] S10b: 強化拡張パック「Pokémon GO」(Strength Expansion Pack: Pokémon GO)
 
 ## Deck
 + Pocket Monsters Card Game:
