@@ -190,6 +190,7 @@ A Personal Pokémon TCG Gallery
    + [x] S8a-G: プロモカードパック 「25th ANNIVERSARY GOLDEN BOX」
    + [x] S8b: ハイクラスパック「VMAXクライマックス」(High Class Pack VMAX Climax)
    + [x] S9a: 強化拡張パック「バトルリージョン」(Strength Expansion Pack: Battle Region)
+   + [ ] S10a: 強化拡張パック「ダークファンタズマ」(Strength Expansion Pack: Dark Phantasma)
 
 ## Deck
 + Pocket Monsters Card Game:
