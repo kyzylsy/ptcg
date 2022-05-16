@@ -124,8 +124,8 @@ A Personal Pokémon TCG Gallery
    + [x] S7R: 拡張パック「蒼空ストリーム」(Blue Sky Stream)
    + [x] S8: 拡張パック「フュージョンアーツ」(Fusion Strike)
    + [x] S9: 拡張パック「スターバース」(Star Birth)
-   + [ ] S10D: 拡張パック「タイムゲイザー」(Time Gazer)
-   + [ ] S10P: 拡張パック「スペースジャグラー」(Space Juggler)
+   + [x] S10D: 拡張パック「タイムゲイザー」(Time Gazer)
+   + [x] S10P: 拡張パック「スペースジャグラー」(Space Juggler)
 
 ## SubSet & Special
 + Pokémon Card Neo:
