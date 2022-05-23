@@ -266,7 +266,7 @@ A Personal Pokémon TCG Gallery
    + [x] 対戦スターターパックSP「ゴウカザルVSエルレイド」(Competition Starter Pack SP Goukazaru VS Erureido)
    + [x] 対戦スターターパックSP「ガブリアスVSリザードン」(Competition Starter Pack SP Gaburias VS Lizardon)
    + [x] コレクションパック「レジギガスLV.X」(Regigigas LV.X Collection Pack)
-   + [ ] コレクションパック「ミュウツーLV.X」(Mewtwo LV.X Collection Pack)
+   + [x] コレクションパック「ミュウツーLV.X」(Mewtwo LV.X Collection Pack)
    + [x] コレクションパック「シェイミLV.X」(Shaymin LV.X Collection Pack)
    + [x] 構築スタンダードデッキ「アルセウスLV.X 草&炎」(Constructed Standard Deck Arceus LV.X Grass & Fire)
    + [x] 構築スタンダードデッキ「アルセウスLV.X 雷&超」(Constructed Standard Deck Arceus LV.X Lightning & Psychic)
