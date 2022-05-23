@@ -298,7 +298,7 @@ A Personal Pokémon TCG Gallery
    + [x] PPD: プラズマ団パワードデッキ30 (Plasma Gang's Powered Half Deck)
    + [x] MDB: マスターデッキビルドBOX EX (Master Deck Build Box EX)
    + [ ] BKB: バトル強化デッキ60「ブラックキュレムＥＸ」(Battle Strength Deck Black Kyurem EX)
-   + [ ] BKW: バトル強化デッキ60「ホワイトキュレムＥＸ」(Battle Strength Deck White Kyurem EX)
+   + [x] BKW: バトル強化デッキ60「ホワイトキュレムＥＸ」(Battle Strength Deck White Kyurem EX)
    + [x] PBG: プラズマ団バトルギフトセット (Plasma Gang Battle Gift Set)
    + [x] WAK: みんなのWAKUWAKUバトル (Everyone's Exciting Battle)
    + [x] K+K: 最強爆流コンボデッキ60「カメックス＋キュレムEX」(Combo Deck Blastoise + Kyurem-EX)
