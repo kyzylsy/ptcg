@@ -352,8 +352,8 @@ A Personal Pokémon TCG Gallery
    + [x] SMN: デッキビルドBOX「TAG TEAM GX」(Tag Team GX Deck Build Box)
    + [x] SML: ファミリーポケモンカードゲーム (Family Pokémon Card Game)
    + [x] SMP2: ムービースペシャルパック「名探偵ピカチュウ」(Movie Special Pack Great Detective Pikachu)
-   + [ ] SMM: スターターセット TAG TEAM GX「エーフィ&デオキシスGX」
-   + [ ] SMM: スターターセット TAG TEAM GX「ブラッキー&ダークライGX」
+   + [x] SMM: スターターセット TAG TEAM GX「エーフィ&デオキシスGX」
+   + [x] SMM: スターターセット TAG TEAM GX「ブラッキー&ダークライGX」
    + [x] エクストラレギュレーションBOX (Extra Regulation Box)
 + Pokémon Card Game Sword & Shield:
    + [x] sA: スターターセットV「草/炎/水/雷/闘」(Starter Set V)
