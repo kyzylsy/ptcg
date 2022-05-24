@@ -331,7 +331,7 @@ A Personal Pokémon TCG Gallery
    + [x] SMC: スターターセット改造「カプ・ブルルGX」(Tapu Bulu-GX Enhanced Starter Set)
    + [ ] SMD: 30枚デッキ対戦セット「サトシVSロケット団」(30-Card Deck Competition Set Ash vs Team Rocket)
    + [x] SME: スターターセット伝説「ソルガレオGX ルナアーラGX」(Solgaleo-GX & Lunala-GX Legendary Starter Set)
-   + [ ] SMF: プレミアムトレーナーボックス「ウルトラサン・ウルトラムーン」(Ultra Sun & Ultra Moon Premium Trainer Box)
+   + [x] SMF: プレミアムトレーナーボックス「ウルトラサン・ウルトラムーン」(Ultra Sun & Ultra Moon Premium Trainer Box)
    + [ ] SMG: デッキビルドBOX「ウルトラサン」(Ultra Sun Deck Build Box)
    + [ ] SMG: デッキビルドBOX「ウルトラムーン」(Ultra Moon Deck Build Box)
    + [x] SMH: GXスタートデッキ「草ラランテス」(Grass Lurantis-GX Deck)
