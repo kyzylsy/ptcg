@@ -282,7 +282,7 @@ A Personal Pokémon TCG Gallery
    + [x] CS1: コレクションシート「旅立ちの仲間」(Collection Sheet Journey Partners)
    + [ ] HS: はじめてセット (Beginning Set)
    + [x] HS: はじめてセットfor ガール (Beginning Set For Girl)
-   + [ ] HS+: はじめてセット＋
+   + [x] HS+: はじめてセット＋
    + [x] HSP: はじめてセットDX ピカチュウver.
    + [x] BK: バトル強化デッキ「ビリジオン」(Battle Strength Deck Virizion)
    + [x] BK: バトル強化デッキ「テラキオン」(Battle Strength Deck Terrakion)
