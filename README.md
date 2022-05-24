@@ -350,7 +350,7 @@ A Personal Pokémon TCG Gallery
    + [ ] SMK: トレーナーバトルデッキ「ニビシティジムのタケシ」(Trainer Battle Deck Takeshi of Nibi City Gym)
    + [ ] SMK: トレーナーバトルデッキ「ハナダシティジムのカスミ」(Trainer Battle Deck Kasumi of Hanada City Gym)
    + [x] SMN: デッキビルドBOX「TAG TEAM GX」(Tag Team GX Deck Build Box)
-   + [ ] SML: ファミリーポケモンカードゲーム (Family Pokémon Card Game)
+   + [x] SML: ファミリーポケモンカードゲーム (Family Pokémon Card Game)
    + [x] SMP2: ムービースペシャルパック「名探偵ピカチュウ」(Movie Special Pack Great Detective Pikachu)
    + [ ] SMM: スターターセット TAG TEAM GX「エーフィ&デオキシスGX」
    + [ ] SMM: スターターセット TAG TEAM GX「ブラッキー&ダークライGX」
