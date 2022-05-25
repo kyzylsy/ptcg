@@ -209,7 +209,7 @@ A Personal Pokémon TCG Gallery
    + [x] スターターパック(Starter Pack)
    + [x] 劇場限定VSパック(Theater Limited VS Pack)
 + Pokémon Card Game ADV:
-   + [ ] 構築済みスターター「キモリデッキ」(Treecko Constructed Starter Deck)
+   + [x] 構築済みスターター「キモリデッキ」(Treecko Constructed Starter Deck)
    + [x] 構築済みスターター「アチャモデッキ」(Torchic Constructed Starter Deck)
    + [x] 構築済みスターター「ミズゴロウデッキ」(Mudkip Constructed Starter Deck)
    + [x] 構築済みスターター「フライゴンデッキ」(Flygon Constructed Starter Deck)
