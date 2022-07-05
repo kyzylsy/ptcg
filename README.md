@@ -126,6 +126,7 @@ A Personal Pokémon TCG Gallery
    + [x] S9: 拡張パック「スターバース」(Star Birth)
    + [x] S10D: 拡張パック「タイムゲイザー」(Time Gazer)
    + [x] S10P: 拡張パック「スペースジャグラー」(Space Juggler)
+   + [ ] S11: 拡張パック「ロストアビス」(Lost Origin)
 
 ## SubSet & Special
 + Pokémon Card Neo:
@@ -190,7 +191,7 @@ A Personal Pokémon TCG Gallery
    + [x] S8a-G: プロモカードパック 「25th ANNIVERSARY GOLDEN BOX」
    + [x] S8b: ハイクラスパック「VMAXクライマックス」(High Class Pack VMAX Climax)
    + [x] S9a: 強化拡張パック「バトルリージョン」(Strength Expansion Pack: Battle Region)
-   + [ ] S10a: 強化拡張パック「ダークファンタズマ」(Strength Expansion Pack: Dark Phantasma)
+   + [x] S10a: 強化拡張パック「ダークファンタズマ」(Strength Expansion Pack: Dark Phantasma)
    + [ ] S10b: 強化拡張パック「Pokémon GO」(Strength Expansion Pack: Pokémon GO)
 
 ## Deck
