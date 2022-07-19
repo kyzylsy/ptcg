@@ -390,3 +390,5 @@ A Personal Pokémon TCG Gallery
    + [x] sK: プレミアムトレーナーボックス VSTAR
    + [x] sL: スターターセットVSTAR(VSTAR Starter Sets)
    + [x] sN: スタートデッキ100 コロコロ ver.
+   + [x] sPD: VSTAR&VMAX ハイクラスデッキ「デオキシス」(Deoxys VSTAR & VMAX High-Class Deck)
+   + [x] sPZ: VSTAR&VMAX ハイクラスデッキ「ゼラオラ」(Zeraora VSTAR & VMAX High-Class Deck)
