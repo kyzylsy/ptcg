@@ -53,7 +53,7 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game DPt: ✔ Era Complete
    + [x] DPt1: 拡張パック「ギンガの覇道」(Galaxy's Conquest)
    + [x] DPt2: 拡張パック「時の果ての絆」(Bonds to the End of Time)
-   + [■] DPt3: 拡張パック「フロンティアの鼓動」(Beat of the Frontier)
+   + [x] DPt3: 拡張パック「フロンティアの鼓動」(Beat of the Frontier)
    + [x] DPt4: 拡張パック「アルセウス光臨」(The Dawn of Arceus)
 + Pokémon Card Game LEGEND: :moneybag: ✔ Era Complete
    + [x] LEGEND1: 拡張パック「ハートゴールドコレクション」(Heart Gold Collection)
