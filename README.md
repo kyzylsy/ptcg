@@ -193,6 +193,7 @@ A Personal Pokémon TCG Gallery
    + [x] S9a: 強化拡張パック「バトルリージョン」(Strength Expansion Pack: Battle Region)
    + [x] S10a: 強化拡張パック「ダークファンタズマ」(Strength Expansion Pack: Dark Phantasma)
    + [x] S10b: 強化拡張パック「Pokémon GO」(Strength Expansion Pack: Pokémon GO)
+   + [ ] S11a: 強化拡張パック「白熱のアルカナ」(Strength Expansion Pack: Incandescent Arcana)
 
 ## Deck
 + Pocket Monsters Card Game:
