@@ -331,7 +331,7 @@ A Personal Pokémon TCG Gallery
    + [x] トゲデマルデッキ (Togedemaru Deck)
    + [x] バクガメスデッキ (Turtonator Deck)
    + [x] SMC: スターターセット改造「カプ・ブルルGX」(Tapu Bulu-GX Enhanced Starter Set)
-   + [ ] SMD: 30枚デッキ対戦セット「サトシVSロケット団」(30-Card Deck Competition Set Ash vs Team Rocket)
+   + [x] SMD: 30枚デッキ対戦セット「サトシVSロケット団」(30-Card Deck Competition Set Ash vs Team Rocket)
    + [x] SME: スターターセット伝説「ソルガレオGX ルナアーラGX」(Solgaleo-GX & Lunala-GX Legendary Starter Set)
    + [x] SMF: プレミアムトレーナーボックス「ウルトラサン・ウルトラムーン」(Ultra Sun & Ultra Moon Premium Trainer Box)
    + [ ] SMG: デッキビルドBOX「ウルトラサン」(Ultra Sun Deck Build Box)
@@ -393,3 +393,4 @@ A Personal Pokémon TCG Gallery
    + [x] sN: スタートデッキ100 コロコロ ver.
    + [x] sPD: VSTAR&VMAX ハイクラスデッキ「デオキシス」(Deoxys VSTAR & VMAX High-Class Deck)
    + [x] sPZ: VSTAR&VMAX ハイクラスデッキ「ゼラオラ」(Zeraora VSTAR & VMAX High-Class Deck)
+   + [ ] SP6: VSTARスペシャルセット(VSTAR Special Set)
