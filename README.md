@@ -345,9 +345,9 @@ A Personal Pokémon TCG Gallery
    + [x] SMH: GXスタートデッキ「悪イベルタル」(Darkness Yveltal-GX Deck)
    + [x] SMH: GXスタートデッキ「鋼メタグロス」(Metal Metagross-GX Deck)
    + [x] SMH: GXスタートデッキ「フェアリーゼルネアス」(Fairy Xerneas-GX Deck)
-   + [ ] SMI: スターターセット「炎のブースターGX」(Flareon-GX Starter Set Fire)
-   + [ ] SMI: スターターセット「水のシャワーズGX」(Vaporeon-GX Starter Set Water)
-   + [ ] SMI: スターターセット「雷のサンダースGX」(Jolteon-GX Starter Set Lightning)
+   + [x] SMI: スターターセット「炎のブースターGX」(Flareon-GX Starter Set Fire)
+   + [x] SMI: スターターセット「水のシャワーズGX」(Vaporeon-GX Starter Set Water)
+   + [x] SMI: スターターセット「雷のサンダースGX」(Jolteon-GX Starter Set Lightning)
    + [x] SMJ: プレミアムトレーナーボックス「TAG TEAM GX」(Tag Team GX Premium Trainer Box)
    + [x] SMK: トレーナーバトルデッキ「ニビシティジムのタケシ」(Trainer Battle Deck Takeshi of Nibi City Gym)
    + [x] SMK: トレーナーバトルデッキ「ハナダシティジムのカスミ」(Trainer Battle Deck Kasumi of Hanada City Gym)
@@ -393,4 +393,4 @@ A Personal Pokémon TCG Gallery
    + [x] sN: スタートデッキ100 コロコロ ver.
    + [x] sPD: VSTAR&VMAX ハイクラスデッキ「デオキシス」(Deoxys VSTAR & VMAX High-Class Deck)
    + [x] sPZ: VSTAR&VMAX ハイクラスデッキ「ゼラオラ」(Zeraora VSTAR & VMAX High-Class Deck)
-   + [ ] SP6: VSTARスペシャルセット(VSTAR Special Set)
+   + [x] SP6: VSTARスペシャルセット(VSTAR Special Set)
