@@ -40,7 +40,6 @@ A Personal Pokémon TCG Gallery
    + [x] PCG: 拡張パック「ホロンの幻影」(Holon Phantoms)
    + [x] PCG: 拡張パック「きせきの結晶」(Miracle Crystal)
    + [x] PCG: 拡張パック「さいはての攻防」(Offence and Defence to the Extreme Limits)
-   + [■] PCG: ワールドチャンピオンズパック (World Championship Pack)
 + Pokémon Card Game DP: ✔ Era Complete
    + [x] DP1: 拡張パック「時空の創造」(Space-Time Creation)
    + [x] DP2: 拡張パック「湖の秘密」(Mystery of the Lakes)
@@ -138,6 +137,7 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game:
    + [ ] ポケパークプレミアムファイル(PokéPark Premium Files)
 + Pokémon Card Game DP
+   + [x] ワールドチャンピオンズパック (World Championship Pack)
    + [x] 10th: 映画10周年記念 プレミアムシート(10th Movie Commemoration Set)
    + [x] 11th: 映画公開記念 プレミアムシート(11th Movie Commemoration Set)
 + Pokémon Card Game DPt:
