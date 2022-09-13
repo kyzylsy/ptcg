@@ -135,7 +135,7 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game e-Series:
    + [x] ミニマム★パック(McDonald's Pokémon-e Minimum Pack)
 + Pokémon Card Game:
-   + [ ] ポケパークプレミアムファイル(PokéPark Premium Files)
+   + [x] ポケパークプレミアムファイル(PokéPark Premium Files)
 + Pokémon Card Game DP
    + [x] ワールドチャンピオンズパック (World Championship Pack)
    + [x] 10th: 映画10周年記念 プレミアムシート(10th Movie Commemoration Set)
