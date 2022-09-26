@@ -126,6 +126,7 @@ A Personal Pokémon TCG Gallery
    + [x] S10D: 拡張パック「タイムゲイザー」(Time Gazer)
    + [x] S10P: 拡張パック「スペースジャグラー」(Space Juggler)
    + [x] S11: 拡張パック「ロストアビス」(Lost Origin)
+   + [ ] S12: 拡張パック「パラダイムトリガー」(Silver Tempest)
 
 ## SubSet & Special
 + Pokémon Card Neo:
