@@ -395,3 +395,4 @@ A Personal Pokémon TCG Gallery
    + [x] sPD: VSTAR&VMAX ハイクラスデッキ「デオキシス」(Deoxys VSTAR & VMAX High-Class Deck)
    + [x] sPZ: VSTAR&VMAX ハイクラスデッキ「ゼラオラ」(Zeraora VSTAR & VMAX High-Class Deck)
    + [x] SP6: VSTARスペシャルセット(VSTAR Special Set)
+   + [ ] sO: スペシャルデッキセット リザードンVSTAR vs レックウザVMAX
