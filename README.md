@@ -195,6 +195,7 @@ A Personal Pokémon TCG Gallery
    + [x] S10a: 強化拡張パック「ダークファンタズマ」(Strength Expansion Pack: Dark Phantasma)
    + [x] S10b: 強化拡張パック「Pokémon GO」(Strength Expansion Pack: Pokémon GO)
    + [x] S11a: 強化拡張パック「白熱のアルカナ」(Strength Expansion Pack: Incandescent Arcana)
+   + [ ] S12a: ハイクラスパック「VSTARユニバース」(High Class Pack VSTAR Universe)
 
 ## Deck
 + Pocket Monsters Card Game:
