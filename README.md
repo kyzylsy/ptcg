@@ -110,7 +110,7 @@ A Personal Pokémon TCG Gallery
    + [x] SM11: 拡張パック「ミラクルツイン」(Miracle Twin)
    + [x] SM12: 拡張パック「オルタージェネシス」(Alter Genesis)
 + Pokémon Card Game Sword & Shield:
-   + [x] S1W: 拡張パック「ソード 」(Sword)
+   + [x] S1W: 拡張パック「ソード」(Sword)
    + [x] S1H: 拡張パック「シールド」(Shield)
    + [x] S2: 拡張パック「反逆クラッシュ」(Rebellion Crash)
    + [x] S3: 拡張パック「ムゲンゾーン」(Infinity Zone)
@@ -126,7 +126,10 @@ A Personal Pokémon TCG Gallery
    + [x] S10D: 拡張パック「タイムゲイザー」(Time Gazer)
    + [x] S10P: 拡張パック「スペースジャグラー」(Space Juggler)
    + [x] S11: 拡張パック「ロストアビス」(Lost Origin)
-   + [ ] S12: 拡張パック「パラダイムトリガー」(Silver Tempest)
+   + [x] S12: 拡張パック「パラダイムトリガー」(Silver Tempest)
++ Pokémon Card Game Scarlet & Violet
+   + [ ] SV1S: 拡張パック「スカーレットex」(Scarlet ex)
+   + [ ] SV1V: 拡張パック「バイオレットex」(violet ex)
 
 ## SubSet & Special
 + Pokémon Card Neo:
@@ -196,6 +199,7 @@ A Personal Pokémon TCG Gallery
    + [x] S10b: 強化拡張パック「Pokémon GO」(Strength Expansion Pack: Pokémon GO)
    + [x] S11a: 強化拡張パック「白熱のアルカナ」(Strength Expansion Pack: Incandescent Arcana)
    + [ ] S12a: ハイクラスパック「VSTARユニバース」(High Class Pack VSTAR Universe)
++ Pokémon Card Game Scarlet & Violet
 
 ## Deck
 + Pocket Monsters Card Game:
@@ -397,3 +401,6 @@ A Personal Pokémon TCG Gallery
    + [x] sPZ: VSTAR&VMAX ハイクラスデッキ「ゼラオラ」(Zeraora VSTAR & VMAX High-Class Deck)
    + [x] SP6: VSTARスペシャルセット(VSTAR Special Set)
    + [x] sO: スペシャルデッキセット リザードンVSTAR vs レックウザVMAX
++ Pokémon Card Game Scarlet & Violet
+   + [ ] svA: スターターセットex
+   + [ ] svB: プレミアムトレーナーボックスex
