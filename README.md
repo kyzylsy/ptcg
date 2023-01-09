@@ -305,7 +305,7 @@ A Personal Pokémon TCG Gallery
    + [ ] HSZ: はじめてセット 全国図鑑版 (National Pokédex Beginning Set)
    + [x] PPD: プラズマ団パワードデッキ30 (Plasma Gang's Powered Half Deck)
    + [x] MDB: マスターデッキビルドBOX EX (Master Deck Build Box EX)
-   + [ ] BKB: バトル強化デッキ60「ブラックキュレムEX」(Battle Strength Deck Black Kyurem EX)
+   + [x] BKB: バトル強化デッキ60「ブラックキュレムEX」(Battle Strength Deck Black Kyurem EX)
    + [x] BKW: バトル強化デッキ60「ホワイトキュレムEX」(Battle Strength Deck White Kyurem EX)
    + [x] PBG: プラズマ団バトルギフトセット (Plasma Gang Battle Gift Set)
    + [x] WAK: みんなのWAKUWAKUバトル (Everyone's Exciting Battle)
