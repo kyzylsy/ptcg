@@ -402,5 +402,5 @@ A Personal Pokémon TCG Gallery
    + [x] SP6: VSTARスペシャルセット(VSTAR Special Set)
    + [x] sO: スペシャルデッキセット リザードンVSTAR vs レックウザVMAX
 + Pokémon Card Game Scarlet & Violet
-   + [ ] svA: スターターセットex
+   + [x] svA: スターターセットex
    + [ ] svB: プレミアムトレーナーボックスex
