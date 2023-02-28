@@ -403,4 +403,4 @@ A Personal Pokémon TCG Gallery
    + [x] sO: スペシャルデッキセット リザードンVSTAR vs レックウザVMAX
 + Pokémon Card Game Scarlet & Violet
    + [x] svA: スターターセットex
-   + [ ] svB: プレミアムトレーナーボックスex
+   + [x] svB: プレミアムトレーナーボックスex
