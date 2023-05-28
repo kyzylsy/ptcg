@@ -404,3 +404,5 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game Scarlet & Violet
    + [x] svA: スターターセットex
    + [x] svB: プレミアムトレーナーボックスex
+   + [x] svC: スターターセットex ピカチュウスペシャルセット
+   + [ ] svP1: exスペシャルセット
