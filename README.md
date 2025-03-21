@@ -130,6 +130,18 @@ A Personal Pokémon TCG Gallery
 + Pokémon Card Game Scarlet & Violet
    + [ ] SV1S: 拡張パック「スカーレットex」(Scarlet ex)
    + [ ] SV1V: 拡張パック「バイオレットex」(violet ex)
+   + [ ] SV2P: 拡張パック「スノーハザード」(Snow Hazard)
+   + [ ] SV2D: 拡張パック「クレイバースト」(Clay Burst)
+   + [ ] SV3:  拡張パック「黒炎の支配者」(Pokémon TCG: Scarlet & Violet—Obsidian Flames)
+   + [ ] SV4K: 拡張パック「古代の咆哮」(Ancient Roar)
+   + [ ] SV4M: 拡張パック「未来の一閃」(Future Flash)
+   + [ ] SV5K: 拡張パック「ワイルドフォース」(Wild Force)
+   + [ ] SV5M: 拡張パック「サイバージャッジ」(Cyber Judge)
+   + [ ] SV6:  拡張パック「変幻の仮面」(Pokémon TCG: Scarlet & Violet—Twilight Masquerade)
+   + [ ] SV7:  拡張パック「ステラミラクル」(Pokémon TCG: Scarlet & Violet—Stellar Crown)
+   + [ ] SV8:  拡張パック「超電ブレイカー」(Super Electric Breaker)
+   + [ ] SV9:  拡張パック「バトルパートナーズ」(Battle Partners)
+   + [ ] SV10: 拡張パック「ロケット団の栄光」(Glory of the Rocket Gang)
 
 ## SubSet & Special
 + Pokémon Card Neo:
@@ -200,6 +212,15 @@ A Personal Pokémon TCG Gallery
    + [x] S11a: 強化拡張パック「白熱のアルカナ」(Strength Expansion Pack: Incandescent Arcana)
    + [ ] S12a: ハイクラスパック「VSTARユニバース」(High Class Pack VSTAR Universe)
 + Pokémon Card Game Scarlet & Violet
+   + [ ] SV1a: 強化拡張パック「トリプレットビート」(Enhanced Expansion Pack: Triplet Beat)
+   + [ ] SV2a: 強化拡張パック「ポケモンカード151」(Enhanced Expansion Pack: Pokémon Card 151)
+   + [ ] SV3a: 強化拡張パック「レイジングサーフ」(Enhanced Expansion Pack: Raging Surf) 
+   + [ ] SV4a: ハイクラスパック「シャイニートレジャーex」(High Class Pack: Shiny Treasure ex)
+   + [ ] SV5a: 強化拡張パック「クリムゾンヘイズ」(Enhanced Expansion Pack: Crimson Haze)
+   + [ ] SV6a: 強化拡張パック「ナイトワンダラー」(Enhanced Expansion Pack: Night Wanderer)
+   + [ ] SV7a: 強化拡張パック「楽園ドラゴーナ」(Enhanced Expansion Pack: Paradise Dragona)
+   + [ ] SV8a: ハイクラスパック「テラスタルフェスex」(High Class Pack: Terastal Fest ex)
+   + [ ] SV9a: 強化拡張パック「熱風のアリーナ」(Hot Wind Arena)
 
 ## Deck
 + Pocket Monsters Card Game:
@@ -402,7 +423,26 @@ A Personal Pokémon TCG Gallery
    + [x] SP6: VSTARスペシャルセット(VSTAR Special Set)
    + [x] sO: スペシャルデッキセット リザードンVSTAR vs レックウザVMAX
 + Pokémon Card Game Scarlet & Violet
-   + [x] svA: スターターセットex
-   + [x] svB: プレミアムトレーナーボックスex
-   + [x] svC: スターターセットex ピカチュウスペシャルセット
-   + [ ] svP1: exスペシャルセット
+   + [x] SVA: スターターセットex
+   + [x] SVB: プレミアムトレーナーボックスex
+   + [x] SVC: スターターセットex ピカチュウスペシャルセット
+   + [ ] SVP1: exスペシャルセット
+   + [ ] SVD: exスタートデッキ
+   + [ ] SVF: デッキビルドBOX 黒炎の支配者(Ruler of the Black Flame Deck Build Box)
+   + [ ] WCS23: ポケモンワールドチャンピオンシップス2023横浜記念デッキ「ピカチュウ」(2023 Pokémon World Championships Yokohama Deck: Pikachu)
+   + [ ] SVEM: スターターセット テラスタル ミュウツーex(Terastal Starter Set Mewtwo ex)
+   + [ ] SVEL: スターターセット テラスタル ラウドボーンex(Terastal Starter Set Skeledirge ex)
+   + [ ] CL: ポケモンカードゲーム Classic(Pokémon Trading Card Game Classic)
+   + [ ] SVG: スペシャルデッキセットex フシギバナ・リザードン・カメックス(Venusaur & Charizard & Blastoise Special Deck Set ex)
+   + [ ] SVHK: スターターデッキ＆ビルドセット「古代のコライドンex」(Ancient Koraidon ex Starter Deck & Build Set)
+   + [ ] SVHM: スターターデッキ＆ビルドセット「未来のミライドンex」(Future Miraidon ex Starter Deck & Build Set)
+   + [ ] SVI: ポケモンカードゲーム スカーレット&バイオレット バトルアカデミー(Pokémon Card Game Battle Academy)
+   + [ ] SVJL: バトルマスターデッキ テラスタル リザードンex(Battle Master Deck Terastal Charizard ex)
+   + [ ] SVJP: バトルマスターデッキ パオジアンex(Battle Master Deck Chien-Pao ex)
+   + [ ] SVK: デッキビルドBOX ステラミラクル(Stellar Miracle Deck Build Box)
+   + [ ] SVLN: スターターセット テラスタイプ:ステラ ニンフィアex(Stellar Tera Type Starter Set Sylveon ex)
+   + [ ] SVLS: スターターセット テラスタイプ：ステラ ソウブレイズex(Stellar Tera Type Starter Set Ceruledge ex)
+   + [ ] SVM: スタートデッキGenerations(Generations Start Decks)
+   + [x] SVN: デッキビルドBOX バトルパートナーズ(Battle Partners Deck Build Box)
+   + [ ] SVOD: スターターセットex ダイゴのダンバル&メタグロスex(ex Starter Set Steven's Beldum & Metagross ex)
+   + [ ] SVOM: スターターセットex マリィのモルペコ&オーロンゲex(ex Starter Set Marnie's Morpeko & Grimmsnarl ex)
