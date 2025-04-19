@@ -361,8 +361,8 @@ A Personal Pokémon TCG Gallery
    + [x] SMD: 30枚デッキ対戦セット「サトシVSロケット団」(30-Card Deck Competition Set Ash vs Team Rocket)
    + [x] SME: スターターセット伝説「ソルガレオGX ルナアーラGX」(Solgaleo-GX & Lunala-GX Legendary Starter Set)
    + [x] SMF: プレミアムトレーナーボックス「ウルトラサン・ウルトラムーン」(Ultra Sun & Ultra Moon Premium Trainer Box)
-   + [■] SMG: デッキビルドBOX「ウルトラサン」(Ultra Sun Deck Build Box)
-   + [■] SMG: デッキビルドBOX「ウルトラムーン」(Ultra Moon Deck Build Box)
+   + [x] SMG: デッキビルドBOX「ウルトラサン」(Ultra Sun Deck Build Box)
+   + [x] SMG: デッキビルドBOX「ウルトラムーン」(Ultra Moon Deck Build Box)
    + [x] SMH: GXスタートデッキ「草ラランテス」(Grass Lurantis-GX Deck)
    + [x] SMH: GXスタートデッキ「炎リザードン」(Fire Charizard-GX Deck)
    + [x] SMH: GXスタートデッキ「水ラプラス」(Water Lapras-GX Deck)
@@ -426,9 +426,9 @@ A Personal Pokémon TCG Gallery
    + [x] SVA: スターターセットex
    + [x] SVB: プレミアムトレーナーボックスex
    + [x] SVC: スターターセットex ピカチュウスペシャルセット
-   + [ ] SVP1: exスペシャルセット
-   + [ ] SVD: exスタートデッキ
-   + [ ] SVF: デッキビルドBOX 黒炎の支配者(Ruler of the Black Flame Deck Build Box)
+   + [x] SVP1: exスペシャルセット
+   + [x] SVD: exスタートデッキ
+   + [x] SVF: デッキビルドBOX 黒炎の支配者(Ruler of the Black Flame Deck Build Box)
    + [ ] WCS23: ポケモンワールドチャンピオンシップス2023横浜記念デッキ「ピカチュウ」(2023 Pokémon World Championships Yokohama Deck: Pikachu)
    + [ ] SVEM: スターターセット テラスタル ミュウツーex(Terastal Starter Set Mewtwo ex)
    + [ ] SVEL: スターターセット テラスタル ラウドボーンex(Terastal Starter Set Skeledirge ex)
