@@ -142,6 +142,9 @@ A Personal Pokémon TCG Gallery
    + [ ] SV8:  拡張パック「超電ブレイカー」(Super Electric Breaker)
    + [ ] SV9:  拡張パック「バトルパートナーズ」(Battle Partners)
    + [ ] SV10: 拡張パック「ロケット団の栄光」(Glory of the Rocket Gang)
++ Pokémon Card Game MEGA
+   + [ ] M1L:  拡張パック「メガブレイブ」(Mega Brave)
+   + [ ] M1S:  拡張パック「メガシンフォニア」(Mega Symphonia)
 
 ## SubSet & Special
 + Pokémon Card Neo:
@@ -446,3 +449,5 @@ A Personal Pokémon TCG Gallery
    + [x] SVN: デッキビルドBOX バトルパートナーズ(Battle Partners Deck Build Box)
    + [ ] SVOD: スターターセットex ダイゴのダンバル&メタグロスex(ex Starter Set Steven's Beldum & Metagross ex)
    + [ ] SVOM: スターターセットex マリィのモルペコ&オーロンゲex(ex Starter Set Marnie's Morpeko & Grimmsnarl ex)
++ Pokémon Card Game MEGA
+   + [x] MA: プレミアムトレーナーボックス MEGA(Premium Trainer Box MEGA)
