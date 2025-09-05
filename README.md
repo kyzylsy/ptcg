@@ -451,3 +451,4 @@ A Personal Pokémon TCG Gallery
    + [ ] SVOM: スターターセットex マリィのモルペコ&オーロンゲex(ex Starter Set Marnie's Morpeko & Grimmsnarl ex)
 + Pokémon Card Game MEGA
    + [x] MA: プレミアムトレーナーボックス MEGA(Premium Trainer Box MEGA)
+   + [x] MB: スターターセットMEGA(MEGA Starter Set)
