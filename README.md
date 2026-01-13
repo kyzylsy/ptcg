@@ -436,7 +436,7 @@ A Personal Pokémon TCG Gallery
    + [x] SVEM: スターターセット テラスタル ミュウツーex(Terastal Starter Set Mewtwo ex)
    + [x] SVEL: スターターセット テラスタル ラウドボーンex(Terastal Starter Set Skeledirge ex)
    + [ ] CL: ポケモンカードゲーム Classic(Pokémon Trading Card Game Classic)
-   + [ ] SVG: スペシャルデッキセットex フシギバナ・リザードン・カメックス(Venusaur & Charizard & Blastoise Special Deck Set ex)
+   + [x] SVG: スペシャルデッキセットex フシギバナ・リザードン・カメックス(Venusaur & Charizard & Blastoise Special Deck Set ex)
    + [x] SVHK: スターターデッキ＆ビルドセット「古代のコライドンex」(Ancient Koraidon ex Starter Deck & Build Set)
    + [x] SVHM: スターターデッキ＆ビルドセット「未来のミライドンex」(Future Miraidon ex Starter Deck & Build Set)
    + [x] SVI: ポケモンカードゲーム スカーレット&バイオレット バトルアカデミー(Pokémon Card Game Battle Academy)
