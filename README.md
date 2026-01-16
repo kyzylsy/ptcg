@@ -432,7 +432,7 @@ A Personal Pokémon TCG Gallery
    + [x] SVP1: exスペシャルセット
    + [x] SVD: exスタートデッキ
    + [x] SVF: デッキビルドBOX 黒炎の支配者(Ruler of the Black Flame Deck Build Box)
-   + [ ] WCS23: ポケモンワールドチャンピオンシップス2023横浜記念デッキ「ピカチュウ」(2023 Pokémon World Championships Yokohama Deck: Pikachu)
+   + [x] WCS23: ポケモンワールドチャンピオンシップス2023横浜記念デッキ「ピカチュウ」(2023 Pokémon World Championships Yokohama Deck: Pikachu)
    + [x] SVEM: スターターセット テラスタル ミュウツーex(Terastal Starter Set Mewtwo ex)
    + [x] SVEL: スターターセット テラスタル ラウドボーンex(Terastal Starter Set Skeledirge ex)
    + [ ] CL: ポケモンカードゲーム Classic(Pokémon Trading Card Game Classic)
