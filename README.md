@@ -356,7 +356,7 @@ A Personal Pokémon TCG Gallery
    + [x] SMA: スターターセット草「ジュナイパーGX」(Decidueye-GX Starter Set Grass)
    + [x] SMA: スターターセット炎「ガオガエンGX」(Incineroar-GX Starter Set Fire)
    + [x] SMA: スターターセット水「アシレーヌGX」(Primarina-GX Starter Set Water)
-   + [■] SMB: プレミアムトレーナーボックス (Premium Trainer Box)
+   + [x] SMB: プレミアムトレーナーボックス (Premium Trainer Box)
    + [x] SMP1: イワンコ全力デッキ (Rockruff Full Power Deck)
    + [x] トゲデマルデッキ (Togedemaru Deck)
    + [x] バクガメスデッキ (Turtonator Deck)
