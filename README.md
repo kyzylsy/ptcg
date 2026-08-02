@@ -453,4 +453,5 @@ A Personal Pokémon TCG Gallery
    + [x] MA: プレミアムトレーナーボックス MEGA(Premium Trainer Box MEGA)
    + [x] MB: スターターセットMEGA(MEGA Starter Set)
    + [ ] MC: スタートデッキ100 バトルコレクション(Start Deck 100 Battle Collection)
-   + [x] MP1: スタートデッキ100バトルコレクション コロちゃおVer.(Start Deck 100 Battle Collection CoroCiao Version)
+   + [x] MP1: スタートデッキ100 バトルコレクション コロちゃおVer.(Start Deck 100 Battle Collection CoroCiao Version)
+   + [x] ME: [スターターセットex](https://www.pokemon-card.com/ex/me/)(2026 ex Starter Sets)
